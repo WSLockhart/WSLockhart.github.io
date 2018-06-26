@@ -1,3 +1,6 @@
+My collection of the all-time great physics problems is [here](Physics/The Great Physics Problems.pdf)!
+
+
 ## Here are some physics links:
 
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
@@ -10,11 +13,9 @@ More coming soon...
 ## Quotes:
 
 > Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
-and only a kind of union of the two will preserve an independent reality.
-> Hermann Minkowski
+and only a kind of union of the two will preserve an independent reality.  - Hermann Minkowski
 
-> The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy.
-> Steven Weinberg
+> The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy. - Steven Weinberg
 
 
 ## Videos:
