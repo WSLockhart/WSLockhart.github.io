@@ -11,10 +11,10 @@ More coming soon...
 
 > Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
 and only a kind of union of the two will preserve an independent reality.
-> - Hermann Minkowski
+> Hermann Minkowski
 
 > The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy.
-> - Steven Weinberg
+> Steven Weinberg
 
 
 ## Videos:
