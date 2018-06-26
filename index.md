@@ -32,4 +32,4 @@ and only a kind of union of the two will preserve an independent reality."  - He
  <embed src="https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf?raw=true" width="600px" height="500px" />
 -->
 
-{https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf}
+{https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf?raw=true}
