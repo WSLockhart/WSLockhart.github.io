@@ -1,7 +1,7 @@
-My collection of the all-time great physics problems is in progress! A version dated 2018/06/25 is available here: [GreatPhysicsProblems.pdf](https://github.com/WSLockhart/Physics/The%20Great%20Physics%20Problems.pdf?raw=true).
+**"On the Shoulders of Giants** - my collection of the all-time great physics problems - is now in progress! A version dated 2018/06/25 is available here: [GreatPhysicsProblems.pdf](https://github.com/WSLockhart/Physics/The%20Great%20Physics%20Problems.pdf?raw=true).
 
 
-## Physics links:
+### Physics links:
 
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/info/)
@@ -11,11 +11,11 @@ My collection of the all-time great physics problems is in progress! A version d
 * [The Einsten Papers](https://einsteinpapers.press.princeton.edu/)
 
 
-## My code:
+### My code:
 
 * Newtonian gravity simulator [code](https://github.com/WSLockhart/Asteroids)
 
-## Quotes:
+### Quotes:
 
 > "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
 and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski
@@ -23,7 +23,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 > "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." - Steven Weinberg
 
 
-## Videos:
+### Videos:
 
 * [Scale of the universe](https://www.youtube.com/watch?v=GoW8Tf7hTGA)
 * [Magnet and copper pipe](https://www.youtube.com/watch?v=5BeFoz3Ypo4)
@@ -31,5 +31,3 @@ and only a kind of union of the two will preserve an independent reality."  - He
 <!--
  <embed src="https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf?raw=true" width="600px" height="500px" />
 -->
-
-{https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf?raw=true}
