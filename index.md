@@ -5,3 +5,10 @@
 * The Physics [Stack Exchange](https://physics.stackexchange.com/)
 
 More coming soon...
+
+# Quotes:
+
+> Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
+and only a kind of union of the two will preserve an independent reality.
+
+> The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy.
