@@ -1,7 +1,7 @@
 My collection of the all-time great physics problems is [here](https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf?raw=true)!
 
 
-## Here are some physics links:
+## Physics links:
 
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/info/)
@@ -9,6 +9,10 @@ My collection of the all-time great physics problems is [here](https://github.co
 * The Physics [Stack Exchange](https://physics.stackexchange.com/)
 
 More coming soon...
+
+## My code:
+
+* Newtonian gravity simulator [code](https://github.com/WSLockhart/Asteroids)
 
 ## Quotes:
 
