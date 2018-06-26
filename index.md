@@ -3,6 +3,7 @@
 
 ### Physics links:
 
+* https://arxiv.org/
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/info/)
 * Richard Feynman's [*Fun to Imagine*](https://www.youtube.com/playlist?list=PLF68C9368E6723478) videos
