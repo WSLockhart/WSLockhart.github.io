@@ -1,2 +1,2 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. 
-You can even [link to Google!](http://google.com)
+Check out Richard Feynman's [*Fun to Imagine* videos!]
+(https://www.youtube.com/playlist?list=PLF68C9368E6723478)
