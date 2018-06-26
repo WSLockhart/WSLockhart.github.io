@@ -29,4 +29,4 @@ and only a kind of union of the two will preserve an independent reality."  - He
 * [Magnet and copper pipe](https://www.youtube.com/watch?v=5BeFoz3Ypo4)
 
 
- <embed src="https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf" width="600px" height="500px" />
+ <embed src="https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf?raw=true" width="600px" height="500px" />
