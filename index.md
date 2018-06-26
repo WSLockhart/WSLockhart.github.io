@@ -1,4 +1,4 @@
-My collection of the all-time great physics problems is [here](Physics/The Great Physics Problems.pdf)!
+My collection of the all-time great physics problems is [here](https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf)!
 
 
 ## Here are some physics links:
