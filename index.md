@@ -1,4 +1,4 @@
-My collection of the all-time great physics problems is in progress! A version dated 2018/06/25 is available here: [GreatPhysicsProblems.pdf](https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf?raw=true).
+My collection of the all-time great physics problems is in progress! A version dated 2018/06/25 is available here: [GreatPhysicsProblems.pdf](https://github.com/WSLockhart/Physics/The%20Great%20Physics%20Problems.pdf?raw=true).
 
 
 ## Physics links:
