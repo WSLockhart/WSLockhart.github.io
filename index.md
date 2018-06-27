@@ -1,9 +1,11 @@
-I recently started compiling a list of the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. A sample page is available [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf?raw=true).
+I recently started compiling a list of the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*, which I hope will be a great resource for students and teachers alike! A sample page is available [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf?raw=true).
 
 ### My film:
 From 2012-2017 I directed a documentary film on the game of Go,  
-[*The Surrounding Game*](https://www.surroundinggamemovie.com/). The film is now available on major platforms - check it out! 
+[*The Surrounding Game*](https://www.surroundinggamemovie.com/). The film is now available on major platforms -  
+check it out! 
 
+<br/>
 ## Physics
 ---
 
@@ -44,12 +46,9 @@ and only a kind of union of the two will preserve an independent reality."  - He
 - [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
 - [Physics Girl](https://www.youtube.com/user/physicswoman)
 
+<br/>
 ## Misc
 ---
-
-
-
-
 
 * [Conway's Game of Life](https://playgameoflife.com/) - cellular automata, perhaps the best demonstration of *emergence* ever devised 
 * [Euclidea](https://www.euclidea.xyz/) - the compass and straght-edge puzzle challenge!
