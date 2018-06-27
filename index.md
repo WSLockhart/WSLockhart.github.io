@@ -15,8 +15,8 @@
 
 ### My code:
 
-* Newtonian gravity simulator [code](https://github.com/WSLockhart/Asteroids)
-(more coming soon!)
+* Newtonian gravity simulator [python code](https://github.com/WSLockhart/Asteroids)
+* (more coming soon!)
 
 ### Quotes:
 
