@@ -1,4 +1,4 @@
-*"On the Shoulders of Giants"*, my collection of the all-time great physics problems, is now in progress! A version dated 2018/06/25 is available here: [TimelessProblems.pdf](https://github.com/WSLockhart/Physics/blob/master/The%20Great%20Physics%20Problems.pdf?raw=true).
+*"On the Shoulders of Giants"*, my collection of the all-time great physics problems, is now in progress! A sample page is available here: [sample.pdf](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf?raw=true).
 
 
 ### Physics links:
