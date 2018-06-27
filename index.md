@@ -3,7 +3,7 @@
 
 ### Physics links:
 
-* https://arxiv.org/
+* [arxiv.org](https://arxiv.org/)
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/info/)
 * Richard Feynman's [*Fun to Imagine*](https://www.youtube.com/playlist?list=PLF68C9368E6723478) videos
@@ -15,6 +15,7 @@
 ### My code:
 
 * Newtonian gravity simulator [code](https://github.com/WSLockhart/Asteroids)
+(more coming soon!)
 
 ### Quotes:
 
@@ -32,7 +33,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 
 Youtube:
 
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) for fantastic animated math videos
 - [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
 - [Physics Girl](https://www.youtube.com/user/physicswoman)
 
