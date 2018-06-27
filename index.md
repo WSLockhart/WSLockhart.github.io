@@ -1,15 +1,16 @@
-*"On the Shoulders of Giants"*, my collection of the all-time great physics problems, is now in progress! A sample page is available here: [sample.pdf](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf?raw=true).
+*"On the Shoulders of Giants"*, my collection of the all-time great physics problems, is now in progress! A sample page is available [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf?raw=true).
 
 
 ### Physics links:
 
-* [arxiv.org](https://arxiv.org/)
+* [arxiv.org](https://arxiv.org/) - 
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/info/)
 * Richard Feynman's [*Fun to Imagine*](https://www.youtube.com/playlist?list=PLF68C9368E6723478) videos
 * The Physics [Stack Exchange](https://physics.stackexchange.com/)
 * [Astrobites](https://astrobites.org/) - a blog on recent news and academic papers in astronomy 
-* [The Einsten Papers](https://einsteinpapers.press.princeton.edu/)
+* [The Einstein Papers](https://einsteinpapers.press.princeton.edu/)
+* [TASI video lectures](https://physicslearning.colorado.edu/tasi/)
 
 
 ### My code:
@@ -29,9 +30,8 @@ and only a kind of union of the two will preserve an independent reality."  - He
 
 * [Scale of the universe](https://www.youtube.com/watch?v=GoW8Tf7hTGA)
 * [Magnet and copper pipe](https://www.youtube.com/watch?v=5BeFoz3Ypo4)
-* [TASI video lectures](https://physicslearning.colorado.edu/tasi/)
 
-Youtube:
+**Youtube Channels:**
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) for fantastic animated math videos
 - [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
