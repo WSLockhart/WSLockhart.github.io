@@ -1,7 +1,7 @@
 I recently started compiling a list of the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. A sample page is available [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf?raw=true).
 
 ### My film:
-From 2012-2017 I directed a documentary film on the game of Go,\ 
+From 2012-2017 I directed a documentary film on the game of Go,  
 [*The Surrounding Game*](https://www.surroundinggamemovie.com/). The film is now available on major platforms - check it out! 
 
 
