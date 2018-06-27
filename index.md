@@ -18,6 +18,9 @@
 * Newtonian gravity simulator [python code](https://github.com/WSLockhart/Asteroids)
 * (more coming soon!)
 
+### My film:
+I directed a documentary film on the game of Go, [*The Surrounding Game*](https://www.surroundinggamemovie.com/), which is now available! 
+
 ### Quotes:
 
 > "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
