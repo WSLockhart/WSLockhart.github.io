@@ -38,7 +38,7 @@ Youtube:
 - [Physics Girl](https://www.youtube.com/user/physicswoman)
 
 
-![test image](https://github.com/WSLockhart/Physics/blob/master/SolarSystem.jpg?raw=true)
+![test image](/blob/master/SolarSystem.jpg?raw=true)
 
 
 <!--
