@@ -1,4 +1,7 @@
-I recently started compiling a collection of the all-time great physics problems, entitled *"On the Shoulders of Giants"*. A sample page is available [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf?raw=true).
+I recently started a project to compile a collection of the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. A sample page is available [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf?raw=true).
+
+### My film:
+From 2012-2017 I directed a documentary film on the game of Go, [*The Surrounding Game*](https://www.surroundinggamemovie.com/). The film is now available on major platforms - check it out! 
 
 
 ### Physics links:
@@ -18,8 +21,6 @@ I recently started compiling a collection of the all-time great physics problems
 * Newtonian gravity simulator [python code](https://github.com/WSLockhart/Asteroids)
 * (more coming soon!)
 
-### My film:
-I directed a documentary film on the game of Go, [*The Surrounding Game*](https://www.surroundinggamemovie.com/), which is now available! 
 
 ### Quotes:
 
@@ -43,7 +44,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 ### Misc:
 
 * [Conway's Game of Life](https://playgameoflife.com/) - cellular automata, perhaps the best demonstration of *emergence* ever devised 
-* [Euclidea](https://www.euclidea.xyz/) - the compass and straght-edge puzzle challenege!
+* [Euclidea](https://www.euclidea.xyz/) - the compass and straght-edge puzzle challenge!
 * This brilliant [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history. 
 * [Timelapse](https://www.youtube.com/watch?v=LLCF7vPanrY) of every nuclear weapon detonated from 1945-1998. 
 
