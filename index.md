@@ -6,6 +6,7 @@ From 2012-2017 I directed a documentary film on the game of Go,
 check it out! 
 
 <br/>
+
 ## Physics
 ---
 
@@ -47,6 +48,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 - [Physics Girl](https://www.youtube.com/user/physicswoman)
 
 <br/>
+
 ## Misc
 ---
 
