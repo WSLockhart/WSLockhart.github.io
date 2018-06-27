@@ -1,9 +1,7 @@
-I recently started compiling a list of the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*, which I hope will be a great resource for students and teachers alike! A sample page is available [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf?raw=true).
+I recently started a project to compile the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. You can see a sample page [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf?raw=true).
 
 ### My film:
-From 2012-2017 I directed a documentary film on the game of Go,  
-[*The Surrounding Game*](https://www.surroundinggamemovie.com/). The film is now available on major platforms -  
-check it out! 
+From 2012-2017 I directed a documentary film on the game of Go,[*The Surrounding Game*](https://www.surroundinggamemovie.com/). The film is now available on major platforms - check it out! 
 
 <br/>
 
@@ -34,6 +32,8 @@ check it out!
 and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski
 
 > "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." - Steven Weinberg
+
+> "If I have seen further it is by standing on the shoulders of Giants." - Isaac Newton
 
 
 ### Videos:
