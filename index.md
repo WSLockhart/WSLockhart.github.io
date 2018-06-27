@@ -4,9 +4,8 @@ I recently started compiling a list of the all-time great pedagogical physics pr
 From 2012-2017 I directed a documentary film on the game of Go,  
 [***The Surrounding Game***](https://www.surroundinggamemovie.com/). The film is now available on major platforms - check it out! 
 
-
 ## Physics
-<br/>
+---
 
 ### Resources:
 
@@ -46,7 +45,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 - [Physics Girl](https://www.youtube.com/user/physicswoman)
 
 ## Misc
-<br/>
+---
 
 * [Conway's Game of Life](https://playgameoflife.com/) - cellular automata, perhaps the best demonstration of *emergence* ever devised 
 * [Euclidea](https://www.euclidea.xyz/) - the compass and straght-edge puzzle challenge!
