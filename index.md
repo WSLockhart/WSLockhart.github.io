@@ -37,8 +37,14 @@ and only a kind of union of the two will preserve an independent reality."  - He
 - [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
 - [Physics Girl](https://www.youtube.com/user/physicswoman)
 
+### Misc:
 
-![test image](https://github.com/WSLockhart/Physics/blob/master/physics_diagram.png?raw=true)
+* [Conway's Game of Life](https://playgameoflife.com/) - cellular automata, perhaps the best demonstration of *emergence* ever devised 
+* [Euclidea](https://www.euclidea.xyz/) - the compass and straght-edge puzzle challenege!
+* This brilliant [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history. 
+* [Timelapse](https://www.youtube.com/watch?v=LLCF7vPanrY) of every nuclear weapon detonated from 1945-1998. 
+
+![footer image](https://github.com/WSLockhart/Physics/blob/master/physics_diagram.png?raw=true)
 
 
 <!--
