@@ -61,7 +61,7 @@ I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go
 ![go image](/go_position_cropped.png)
 
 
-<img src="https://github.com/WSLockhart/Physics/blob/master/physics_diagram.png" height="24">
+<img src="https://github.com/WSLockhart/Physics/blob/master/go_position_cropped.png" height="100">
 
 
 ## Misc
