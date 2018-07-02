@@ -69,6 +69,7 @@ I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go
 <!--
 * [Euclidea](https://www.euclidea.xyz/) - the compass and straight-edge puzzle challenge
 * [Timelapse](https://www.youtube.com/watch?v=LLCF7vPanrY) of every nuclear weapon detonated from 1945-1998. 
+* [www.erowid.org](https://www.erowid.org/) - the vault of information on and personal accounts of psychoactive drugs
 -->
 
 
