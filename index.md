@@ -63,8 +63,8 @@ I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go
 ## Misc
 ---
 
-* [Conway's Game of Life](https://playgameoflife.com/) - cellular automata, perhaps the best demonstration of *emergence* ever devised 
-* This brilliant [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history. 
+* [Conway's Game of Life](https://playgameoflife.com/) - cellular automata, one of the best demonstrations of *emergence* ever created 
+* This brilliant [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history 
 
 <!--
 * [Euclidea](https://www.euclidea.xyz/) - the compass and straight-edge puzzle challenge
