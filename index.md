@@ -5,7 +5,7 @@ From 2012-2017 I directed a documentary film on the game of Go, [*The Surroundin
 
 <br/>
 
-## Physics
+# Physics
 ---
 
 ### Resources:
@@ -51,7 +51,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 ![footer image](https://github.com/WSLockhart/Physics/blob/master/physics_diagram.png?raw=true)
 
 
-## The Game of Go
+# The Game of Go
 ---
 
 > "The rules of Go are so elegant, organic and rigorously logical that if intelligent life forms exist elsewhere in the universe they almost certainly play go." - Edward Lasker
@@ -60,7 +60,7 @@ I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go
 
 <br/>
 
-## Misc
+# Misc
 ---
 
 * [Conway's Game of Life](https://playgameoflife.com/) - cellular automata, one of the best demonstrations of *emergence* ever created 
