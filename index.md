@@ -61,9 +61,10 @@ I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go
 
 <img src="https://github.com/WSLockhart/Physics/blob/master/go_position_cropped.png" height="200">
 
-
-<img src="https://github.com/WSLockhart/Physics/blob/master/go_position_cropped.png" style="opacity:0.3;filter:alpha(opacity=30);">
-
+<img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    src="https://github.com/WSLockhart/Physics/blob/master/go_position_cropped.png"}>
 
 ## Misc
 ---
