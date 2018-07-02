@@ -48,7 +48,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 - [Physics Girl](https://www.youtube.com/user/physicswoman)
 
 
-![footer image](https://github.com/WSLockhart/Physics/blob/master/physics_diagram.png?raw=true)
+![physics image](https://github.com/WSLockhart/Physics/blob/master/physics_diagram.png?raw=true)
 
 
 ## The Game of Go
@@ -58,7 +58,8 @@ and only a kind of union of the two will preserve an independent reality."  - He
 
 I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go/](https://www.surroundinggamemovie.com/play-go/).
 
-<br/>
+![go image](https://github.com/WSLockhart/home/blob/master/go_position_cropped.png?raw=true)
+
 
 ## Misc
 ---
