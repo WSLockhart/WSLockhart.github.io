@@ -13,7 +13,7 @@ From 2012-2017 I directed a documentary film on the game of Go, [*The Surroundin
 * [arXiv.org](https://arxiv.org/)
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/info/)
-* Richard Feynman's [*Fun to Imagine*](https://www.youtube.com/playlist?list=PLF68C9368E6723478) videos
+* Richard Feynman's [*Fun to Imagine*](https://www.youtube.com/playlist?list=PLF68C9368E6723478) videos (must-watch!)
 * The Physics [Stack Exchange](https://physics.stackexchange.com/)
 * [Astrobites](https://astrobites.org/) - a blog on recent news and academic papers in astronomy 
 * [The Einstein Papers](https://einsteinpapers.press.princeton.edu/)
@@ -50,6 +50,15 @@ and only a kind of union of the two will preserve an independent reality."  - He
 
 ![footer image](https://github.com/WSLockhart/Physics/blob/master/physics_diagram.png?raw=true)
 
+
+## The Game of Go
+---
+
+> "The rules of Go are so elegant, organic and rigorously logical that if intelligent life forms exist elsewhere in the universe they almost certainly play go." - Edward Lasker
+
+I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go/](https://www.surroundinggamemovie.com/play-go/).
+
+<br/>
 
 ## Misc
 ---
