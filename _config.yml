@@ -1,5 +1,12 @@
 theme: jekyll-theme-minimal
 title: "Will Lockhart | Home"
 logo: https://github.com/WSLockhart/Physics/blob/master/SolarSystem.jpg?raw=true
-description: "I am a 3rd-year graduate student in high-energy astrophysics at the University of Arizona. 
-My research is focused on understanding neutron stars. I use computer models to calculate the radiation from these stars (millisecond pulsars, to be specific) and predict how that light would look to us through our telescopes here on Earth. Feel free to contact me at wlockhart@email.arizona.edu."
+description: "I am a graduate student in high-energy astrophysics at the University of Arizona. 
+My research is focused on understanding neutron stars. 
+Using computer simulations, I am calculating the radiation emitted by these stars 
+(millisecond pulsars, to be specific) according to different models,
+and what that light should look like to our telescopes here on Earth. 
+We hope that new observations of pulsars from NASA's NICER mission will support some of these models and rule out others, 
+thereby putting constraints on more fundamental properties of neutron stars such as their size
+and the configuration of their magnetic fields. 
+Feel free to contact me at wlockhart@email.arizona.edu."
