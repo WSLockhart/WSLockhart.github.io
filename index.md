@@ -66,7 +66,7 @@ I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go
     opacity: 0.5;
     filter: alpha(opacity=50); /* For IE8 and earlier */
 }
-
+-->
 
 ## Misc
 ---
