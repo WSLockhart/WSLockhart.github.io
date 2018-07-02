@@ -28,10 +28,10 @@ From 2012-2017 I directed a documentary film on the game of Go, [*The Surroundin
 
 ### Quotes:
 
+> "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." - Steven Weinberg
+
 > "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
 and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski
-
-> "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." - Steven Weinberg
 
 > "If I have seen further it is by standing on the shoulders of Giants." - Isaac Newton
 
@@ -47,18 +47,19 @@ and only a kind of union of the two will preserve an independent reality."  - He
 - [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
 - [Physics Girl](https://www.youtube.com/user/physicswoman)
 
+
+![footer image](https://github.com/WSLockhart/Physics/blob/master/physics_diagram.png?raw=true)
+
 <br/>
 
 ## Misc
 ---
 
 * [Conway's Game of Life](https://playgameoflife.com/) - cellular automata, perhaps the best demonstration of *emergence* ever devised 
-* [Euclidea](https://www.euclidea.xyz/) - the compass and straight-edge puzzle challenge
-
-<!--
 * This brilliant [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history. 
+<!--
+* [Euclidea](https://www.euclidea.xyz/) - the compass and straight-edge puzzle challenge
 * [Timelapse](https://www.youtube.com/watch?v=LLCF7vPanrY) of every nuclear weapon detonated from 1945-1998. 
 -->
 
-![footer image](https://github.com/WSLockhart/Physics/blob/master/physics_diagram.png?raw=true)
 
