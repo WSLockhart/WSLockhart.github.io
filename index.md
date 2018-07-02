@@ -59,7 +59,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go/](https://www.surroundinggamemovie.com/play-go/).
 
 
-<img src="https://github.com/WSLockhart/Physics/blob/master/go_position_cropped.png" height="150" style="opacity:0.4;filter:alpha(opacity=40);">
+<img src="https://github.com/WSLockhart/Physics/blob/master/go_position_cropped.png" height="200" style="opacity:0.4;filter:alpha(opacity=40);">
 
 
 ## Misc
