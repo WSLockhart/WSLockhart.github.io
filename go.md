@@ -6,10 +6,9 @@ title: Go
 #### [Home](index.md) | [Physics](physics.md) | [The Game of Go](go.md) | [Misc](misc.md)
 
 # The Game of Go
+---
 
 ![Go image](/images/go_image.png)
-
----
 
 
 > "The rules of Go are so elegant, organic and rigorously logical that if intelligent life forms exist elsewhere in the universe they almost certainly play go." - Edward Lasker
