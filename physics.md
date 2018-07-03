@@ -10,7 +10,7 @@ title: Physics
 
 ![physics image](/images/physics_diagram.png)
 
-<br/>
+
 
 ### Resources:
 
