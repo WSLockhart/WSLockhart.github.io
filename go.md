@@ -15,5 +15,7 @@ title: Go
 that if intelligent life forms exist elsewhere in the universe   
 they almost certainly play go." - Edward Lasker
 
-I will add a lot more stuff here eventually. For now just go to [surroundinggamemovie.com/play-go/](https://www.surroundinggamemovie.com/play-go/).
+There is a nice tutorial starting from the very beginning [here](http://playgo.to/iwtg/en/).
+
+I will add a lot more to this page eventually. For now just go to [surroundinggamemovie.com/play-go/](https://www.surroundinggamemovie.com/play-go/).
 
