@@ -18,7 +18,7 @@ The project was a labor of love, a worldly adventure, and my attempt to synthesi
 
 #### You can now watch *The Surrounding Game* on these platforms:
 
-[**iTunes**](https://tinyurl.com/TheSurroundingGameiTunes) | | [**Amazon**](https://tinyurl.com/SurroundingGameAMZ) | | [**Google Play**](https://tinyurl.com/SurroundingGameGP) | [**Vimeo**](https://vimeo.com/ondemand/thesurroundinggame) | [**Vudu**](https://www.vudu.com/content/movies/details/The-Surrounding-Game/944819) | [**Steam**](https://store.steampowered.com/app/854240/The_Surrounding_Game/)
+**[iTunes](https://tinyurl.com/TheSurroundingGameiTunes)** | [Amazon](https://tinyurl.com/SurroundingGameAMZ) | [**Google Play**](https://tinyurl.com/SurroundingGameGP) | [**Vimeo**](https://vimeo.com/ondemand/thesurroundinggame) | [**Vudu**](https://www.vudu.com/content/movies/details/The-Surrounding-Game/944819) | [**Steam**](https://store.steampowered.com/app/854240/The_Surrounding_Game/)
 
 plus of course on our main website [surroundinggamemovie.com](https://www.surroundinggamemovie.com/). The film has been translated into over a dozen languages!
 
