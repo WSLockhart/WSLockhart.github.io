@@ -6,9 +6,10 @@ title: Go
 #### [Home](index.md) | [Physics](physics.md) | [The Game of Go](go.md) | [Misc](misc.md)
 
 # The Game of Go
----
 
 ![Go image](/images/go_image.png)
+
+---
 
 <br/>
 
