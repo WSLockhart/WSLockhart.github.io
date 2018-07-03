@@ -58,7 +58,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 
 I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go/](https://www.surroundinggamemovie.com/play-go/).
 
-![physics image](/images/go_position_cropped.png)
+![physics image](/images/go_image.png)
 
 <!--
 <img src="https://github.com/WSLockhart/Physics/blob/master/go_position_cropped.png" height="200">
