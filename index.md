@@ -1,3 +1,5 @@
+#### [Home](index.md) | [Game of Go](go.md)
+
 I recently started a project to compile the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. Problem suggestions welcome! You can see a sample page [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf).
 
 ### My film:
@@ -50,15 +52,6 @@ and only a kind of union of the two will preserve an independent reality."  - He
 
 ![physics image](/images/physics_diagram.png)
 
-
-## The Game of Go
----
-
-> "The rules of Go are so elegant, organic and rigorously logical that if intelligent life forms exist elsewhere in the universe they almost certainly play go." - Edward Lasker
-
-I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go/](https://www.surroundinggamemovie.com/play-go/).
-
-![physics image](/images/go_image.png)
 
 <!--
 <img src="https://github.com/WSLockhart/Physics/blob/master/go_position_cropped.png" height="200">
