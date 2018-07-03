@@ -21,7 +21,7 @@ I recently started a project to compile the all-time great pedagogical physics p
 
 ![](/images/pulsar.jpg)
 
-<img src="/images/pulsar.jpg" alt="drawing" width="500px"/>
+<img src="https://github.com/WSLockhart/home/blob/master/images/pulsar.jpg" alt="drawing" width="500px"/>
 
 <br/>
 
