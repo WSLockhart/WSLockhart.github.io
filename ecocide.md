@@ -3,7 +3,7 @@ layout: default
 title: Go
 ---
 
-* Ecocide
+# Ecocide
 
 On the destruction of the Earth's ecosystem and the future of human civilization.
 
