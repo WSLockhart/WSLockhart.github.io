@@ -15,15 +15,12 @@ The project was a labor of love, a worldly adventure, and my attempt to synthesi
 
 >THE SURROUNDING GAME follows the lives of three young Americans vying to become the first-ever Western professional players. As the competition intensifies and intricate patterns spill out across the board, the line between reality and imagination starts to blur. Their thoughts turn to anxieties about the future, and lead them on a journey through the game’s ancient past to ask what it means to live a meaningful life. Through an intimate portrait of these young players and interviews with the greatest Go masters of all time, the film explores the search for meaning that Go represents to its players, for whom the game is a distillation of consciousness itself.
 
----
 
-### Trailer:
+#### You can now watch *The Surrounding Game* on these platforms:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QyfWChDhtu0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-You can now watch *The Surrounding Game* on these platforms:
-
-[iTunes](https://tinyurl.com/TheSurroundingGameiTunes) || [Amazon](https://tinyurl.com/SurroundingGameAMZ) | [Google Play](https://tinyurl.com/SurroundingGameGP) | [Vimeo](https://vimeo.com/ondemand/thesurroundinggame) | [Vudu](https://www.vudu.com/content/movies/details/The-Surrounding-Game/944819) | [Steam](https://store.steampowered.com/app/854240/The_Surrounding_Game/)
+| Platforms |
+| ----------- |
+[iTunes](https://tinyurl.com/TheSurroundingGameiTunes) | [Amazon](https://tinyurl.com/SurroundingGameAMZ) | [Google Play](https://tinyurl.com/SurroundingGameGP) | [Vimeo](https://vimeo.com/ondemand/thesurroundinggame) | [Vudu](https://www.vudu.com/content/movies/details/The-Surrounding-Game/944819) | [Steam](https://store.steampowered.com/app/854240/The_Surrounding_Game/)
 
 plus of course on our main website [surroundinggamemovie.com](https://www.surroundinggamemovie.com/). The film has been translated into over a dozen languages!
 
