@@ -15,13 +15,13 @@ title: Physics
 
 * [arXiv.org](https://arxiv.org/)
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
-* [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/info/) books and [video lecture series](http://www.cornell.edu/video/playlist/richard-feynman-messenger-lectures) free online
+* [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/info/) books & corresponding [video lecture series](http://www.cornell.edu/video/playlist/richard-feynman-messenger-lectures)
 * Richard Feynman's [*Fun to Imagine*](https://www.youtube.com/playlist?list=PLF68C9368E6723478) videos (must-watch!)
 * The Physics [Stack Exchange](https://physics.stackexchange.com/)
 * [Astrobites](https://astrobites.org/) - a blog on recent news and academic papers in astronomy 
 * [The Einstein Papers](https://einsteinpapers.press.princeton.edu/)
 * [TASI video lectures](https://physicslearning.colorado.edu/tasi/)
-* [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas by subject
+* [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas organized by subject
 
 
 ### My code:
