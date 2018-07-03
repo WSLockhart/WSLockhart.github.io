@@ -7,5 +7,7 @@
 
 I will add stuff here soon. For now just go to [surroundinggamemovie.com/play-go/](https://www.surroundinggamemovie.com/play-go/).
 
+<br/>
+
 ![Go image](/images/go_image.png)
 
