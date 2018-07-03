@@ -43,15 +43,12 @@ and only a kind of union of the two will preserve an independent reality."  - He
 
 * [Scale of the universe](https://www.youtube.com/watch?v=GoW8Tf7hTGA)
 * [Magnet and copper pipe](https://www.youtube.com/watch?v=5BeFoz3Ypo4)
-
-**Youtube Channels:**
-
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) for fantastic animated math videos
-- [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
-- [Physics Girl](https://www.youtube.com/user/physicswoman)
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): a Youtube channel of wonderful animated math videos
 
 
 <!--
+- [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
+- [Physics Girl](https://www.youtube.com/user/physicswoman)
 <img src="https://github.com/WSLockhart/Physics/blob/master/go_position_cropped.png" height="200">
 <img {
     opacity: 0.5;
