@@ -8,6 +8,7 @@ title: Home
 # Home
 
 Welcome to my website in progress! 
+
 ---
 
 ### My Research:
