@@ -1,3 +1,8 @@
+---
+layout: default
+title: Misc
+---
+
 #### [Home](index.md) | [Physics](physics.md) | [The Game of Go](go.md) | [Misc](misc.md)
 
 # Misc
