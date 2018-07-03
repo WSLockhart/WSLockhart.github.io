@@ -18,7 +18,6 @@ The project was a labor of love, a worldly adventure, and my attempt to synthesi
 
 #### You can now watch *The Surrounding Game* on these platforms:
 
-| Platforms |
 | ----------- |
 [iTunes](https://tinyurl.com/TheSurroundingGameiTunes) | [Amazon](https://tinyurl.com/SurroundingGameAMZ) | [Google Play](https://tinyurl.com/SurroundingGameGP) | [Vimeo](https://vimeo.com/ondemand/thesurroundinggame) | [Vudu](https://www.vudu.com/content/movies/details/The-Surrounding-Game/944819) | [Steam](https://store.steampowered.com/app/854240/The_Surrounding_Game/)
 
@@ -28,3 +27,8 @@ For DVD/Blu-rays, merchandise, and even beginner Go sets, check out our webstore
 
 There is also 30 minutes of *bonus material and deleted scenes*, only avaliable on our site and on Vimeo, or on the physical discs. 
 
+---
+
+#### Trailer:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QyfWChDhtu0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
