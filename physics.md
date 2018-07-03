@@ -8,6 +8,10 @@ title: Physics
 # Physics
 ---
 
+![physics image](/images/physics_diagram.png)
+
+<br/>
+
 ### Resources:
 
 * [arXiv.org](https://arxiv.org/)
@@ -46,9 +50,6 @@ and only a kind of union of the two will preserve an independent reality."  - He
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) for fantastic animated math videos
 - [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
 - [Physics Girl](https://www.youtube.com/user/physicswoman)
-
-
-![physics image](/images/physics_diagram.png)
 
 
 <!--
