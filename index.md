@@ -9,7 +9,6 @@ title: Home
 
 Welcome to my website in progress! 
 
-<br/>
 
 ### My Research:
 
@@ -19,15 +18,16 @@ By comparing these predictions with new observational data from NASA's [NICER](h
 
 I recently started a project to compile the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. Problem suggestions welcome! You can see a sample page [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf).
 
+<!--
 ![pulsar](/images/pulsar.jpg)
-
 <img src="https://github.com/WSLockhart/home/blob/master/images/pulsar.jpg" alt="drawing" width="500px"/>
+-->
 
 <br/>
 
 ### My film:
 From 2012-2017 I directed a documentary film on the game of Go, [*The Surrounding Game*](https://www.surroundinggamemovie.com/). The film is now available on major platforms - check it out! 
 
+<!--
 ![tsg](/images/TSG.png)
-
-<img src="/images/TSG.png" alt="drawing" width="500px"/>
+-->
