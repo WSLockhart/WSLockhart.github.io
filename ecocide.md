@@ -1,3 +1,3 @@
-On the future of the Earth's ecosystem, climate, and human civilization.
+On the destruction of the Earth's ecosystem and the future of human civilization.
 
 ![planet b](/images/planet_b.jpg)
