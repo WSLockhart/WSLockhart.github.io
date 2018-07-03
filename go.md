@@ -11,7 +11,6 @@ title: Go
 
 ---
 
-<br/>
 
 > "The rules of Go are so elegant, organic and rigorously logical that if intelligent life forms exist elsewhere in the universe they almost certainly play go." - Edward Lasker
 
