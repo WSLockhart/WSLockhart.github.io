@@ -30,7 +30,7 @@ I recently started a project to compile the all-time great pedagogical physics p
 
 I have worked as a teaching assistant for the 1st year undergraduate physics courses at the UofA: 141 (Mechanics) and 241 (Electricity & Magnetism). 
 
-I am a nationally-ranked 5-dan amateur Go player, and I have experience teaching Go as well, in private lessons and group workshops.
+I am a nationally ranked 5-dan amateur Go player, and I have experience teaching Go as well, in private lessons and group workshops.
 
 ---
 
