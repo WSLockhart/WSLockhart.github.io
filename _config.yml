@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: "Will Lockhart | Home"
-logo: https://github.com/WSLockhart/Physics/blob/master/SolarSystem.jpg?raw=true
+logo: /images/SolarSystem.jpg
 description: "I am a 3rd-year graduate student in astrophysics at the University of Arizona. 
 My research is focused on neutron stars. I use computer simulations to calculate the radiation emitted by these stars 
 (millisecond pulsars to be specific), and model how that light should look to our telescopes here on Earth. 
