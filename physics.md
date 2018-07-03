@@ -6,11 +6,10 @@ title: Physics
 #### [Home](index.md) | [Physics](physics.md) | [The Game of Go](go.md) | [Misc](misc.md)
 
 # Physics
----
 
 ![physics image](/images/physics_diagram.png)
 
-
+---
 
 ### Resources:
 
