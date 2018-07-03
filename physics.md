@@ -43,7 +43,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 
 * [Scale of the universe](https://www.youtube.com/watch?v=GoW8Tf7hTGA)
 * [Magnet and copper pipe](https://www.youtube.com/watch?v=5BeFoz3Ypo4)
-* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): a Youtube channel of wonderful animated math videos
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - a Youtube channel of wonderful animated math videos
 
 
 <!--
