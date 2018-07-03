@@ -8,9 +8,10 @@ title: Home
 # Home
 
 Welcome to my website in progress! 
-
+---
 
 ### My Research:
+---
 
 My research is focused on neutron stars. I use computer simulations to calculate the radiation emitted by these stars 
 (millisecond pulsars to be specific), and model how that light should look to our telescopes here on Earth. 
@@ -23,9 +24,8 @@ I recently started a project to compile the all-time great pedagogical physics p
 <img src="https://github.com/WSLockhart/home/blob/master/images/pulsar.jpg" alt="drawing" width="500px"/>
 -->
 
-<br/>
-
 ### My film:
+---
 From 2012-2017 I directed a documentary film on the game of Go, [*The Surrounding Game*](https://www.surroundinggamemovie.com/). The film is now available on major platforms - check it out! 
 
 <!--
