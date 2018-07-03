@@ -28,7 +28,7 @@ I recently started a project to compile the all-time great pedagogical physics p
 
 ### Teaching:
 
-I have worked as a teaching assistant for the 1st year undergraduate physics courses at the UofA: 141 (Mechanics) and 241 (Electricity & Magnetism). 
+I have two years' experience as a teaching assistant (TA) for the freshman undergraduate physics courses at the UofA: 141 (Mechanics) and 241 (Electricity & Magnetism). 
 
 I am a nationally ranked 5-dan amateur Go player, and I have experience teaching Go as well, in private lessons and group workshops.
 
@@ -38,6 +38,3 @@ I am a nationally ranked 5-dan amateur Go player, and I have experience teaching
 
 From 2012-2017 I directed a feature-length documentary film on the game of Go, [*The Surrounding Game*](https://www.surroundinggamemovie.com/). The project was a labor of love, a worldly adventure, and my attempt to synthesize all the emotions and philosophical questions the game inspires in me. The movie is now available on major streaming platforms - go check it out! 
 
-<!--
-![tsg](/images/TSG.png)
--->
