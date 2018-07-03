@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Go
+title: Ecocide
 ---
 
 # Ecocide
