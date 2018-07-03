@@ -19,7 +19,9 @@ By comparing these predictions with new observational data from NASA's [NICER](h
 
 I recently started a project to compile the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. Problem suggestions welcome! You can see a sample page [here](https://github.com/WSLockhart/Physics/blob/master/TimelessProblems_sample.pdf).
 
-![pulsar image](/images/pulsar.jpg =250x)
+![pulsar image](/images/pulsar.jpg)
+
+<img src="/images/pulsar.jpg" alt="drawing" width="200px"/>
 
 <br/>
 
