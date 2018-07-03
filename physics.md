@@ -21,6 +21,7 @@ title: Physics
 * [Astrobites](https://astrobites.org/) - a blog on recent news and academic papers in astronomy 
 * [The Einstein Papers](https://einsteinpapers.press.princeton.edu/)
 * [TASI video lectures](https://physicslearning.colorado.edu/tasi/)
+* [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas by subject
 
 
 ### My code:
