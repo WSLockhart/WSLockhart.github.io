@@ -11,7 +11,7 @@ Welcome to my website in progress!
 
 ---
 
-### My Research:
+### Research:
 
 My research is focused on neutron stars. I use computer simulations to calculate the radiation emitted by these stars 
 (millisecond pulsars to be specific), and model how that light should look to our telescopes here on Earth. 
