@@ -19,7 +19,7 @@ By comparing our predictions with new observational data from NASA's [NICER](htt
 
 I recently started a side project to compile the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf).
 
-Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. Check out the final [video](https://www.youtube.com/watch?v=aPW5df8Cvrc)!
+Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. [Here](https://www.youtube.com/watch?v=aPW5df8Cvrc) is one of the final videos!
 
 ---
 
