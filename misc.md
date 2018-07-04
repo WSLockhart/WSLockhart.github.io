@@ -8,7 +8,7 @@ title: Misc
 # Misc
 ---
 
-![conway gif](/images/glidergun.gif)
+![conway gif](/images/glidergun_cropped.gif)
 
 
 * [Conway's Game of Life](https://playgameoflife.com/) - glider guns, are you kiddin' me!? Explore the original cellular automata, one of the best demonstrations of *emergence* ever created 
