@@ -30,7 +30,7 @@ I recently started a project to compile the all-time great pedagogical physics p
 
 I have two years' experience as a teaching assistant (TA) for the freshman undergraduate physics courses at the UofA: 141 (Mechanics) and 241 (Electricity & Magnetism). 
 
-I am a nationally ranked 5-dan amateur Go player, and I have experience teaching Go as well, in private lessons and group workshops.
+I am a nationally ranked 5-dan amateur Go player, and I have taught Go both in private lessons and group workshops.
 
 ---
 
