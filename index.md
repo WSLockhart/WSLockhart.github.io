@@ -17,7 +17,7 @@ My research is focused on neutron stars. I use computer simulations to calculate
 (millisecond pulsars to be specific), and model how that light should look to our telescopes here on Earth. 
 By comparing our predictions with new observational data from NASA's [NICER](https://www.nasa.gov/nicer) mission, we hope to put constraints on the size, magnetic field, and other fundamental properties of these near-inconceivable objects. 
 
-I recently started a project to compile the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf).
+I recently started a side project to compile the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf).
 
 <!--
 ![pulsar](/images/pulsar.jpg)
@@ -28,7 +28,7 @@ I recently started a project to compile the all-time great pedagogical physics p
 
 ### Teaching:
 
-I have two years' experience as a teaching assistant (TA) for the freshman undergraduate physics courses at the UofA: 141 (Mechanics) and 241 (Electricity & Magnetism). 
+I have two years' experience as a teaching assistant (TA) for the freshman undergraduate physics courses at the [UofA](http://w3.physics.arizona.edu/): 141 (Mechanics) and 241 (Electricity & Magnetism). 
 
 I am a nationally ranked 5-dan amateur Go player, and I have taught Go both in private lessons and group workshops.
 
