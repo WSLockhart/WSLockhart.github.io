@@ -20,14 +20,10 @@ The project was a labor of love, a worldly adventure, and my attempt to synthesi
 
 **[iTunes](https://tinyurl.com/TheSurroundingGameiTunes)** | **[Amazon](https://tinyurl.com/SurroundingGameAMZ)** | **[Google Play](https://tinyurl.com/SurroundingGameGP)** | **[Vimeo](https://vimeo.com/ondemand/thesurroundinggame)** | **[Vudu](https://www.vudu.com/content/movies/details/The-Surrounding-Game/944819)** | **[Steam](https://store.steampowered.com/app/854240/The_Surrounding_Game/)**
 
-plus of course on our main website [surroundinggamemovie.com](https://www.surroundinggamemovie.com/). The film has been translated into over a dozen languages!
-
-For DVD/Blu-rays, merchandise, and even beginner Go sets, check out our webstore: [surroundinggame.com](https://www.surroundinggame.com/). 
-
-There is also 30 minutes of *bonus material and deleted scenes*, only avaliable on our site and on Vimeo, or on the physical discs. 
+and on VHX directly through our website [surroundinggamemovie.com](https://www.surroundinggamemovie.com/). The film is 97 minutes long, and has been translated into over a dozen languages! We've also released 30 minutes of *bonus material and deleted scenes*, only avaliable on our site and on Vimeo, or on the physical discs. For DVD/Blu-rays, merchandise, and even beginner Go sets, check out our webstore: [surroundinggame.com](https://www.surroundinggame.com/). 
 
 ---
 
-#### Trailer:
+#### Watch the trailer:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QyfWChDhtu0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
