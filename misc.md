@@ -15,6 +15,9 @@ title: Misc
 * This brilliant [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history 
 * [*A Mathematician's Lament*](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) - the ultimate critique of the school system and how school destroys curiosity
 
+
+* [Anagrams code](https://github.com/WSLockhart/Anagrams) - a program I wrote in python to play a perfect game of *Anagrams*. See the README for an explanation of the game and how to run the program.
+
 More coming soon...
 
 <!--
