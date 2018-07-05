@@ -13,13 +13,14 @@ title: Physics
 
 > "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." - Steven Weinberg, 1979 Nobel Laureate in Physics
 
-What is reality, and how can we understand it? More precisely, how can we describe in a mathematical framework the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other physics miscellanea.  
+What is reality, and how can we understand it? More precisely, how can we describe in a mathematical framework the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics.  
 
 
-### My code:
+### Projects / Code:
 
 * *Asteroids*: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids).
 * *Particle Mesh Code*. Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. [Here](https://www.youtube.com/watch?v=aPW5df8Cvrc) is one of the final videos!
+* *On the Shoulders of Giants* - a project to compile the all-time great pedagogical physics problems. I hope that someday this can be a lovely resource for students and teachers alike. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf).
 * (will post more soon!)
 
 
