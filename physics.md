@@ -24,7 +24,7 @@ What is reality, and how can we understand it? More precisely, how can we descri
 * (will post more soon!)
 
 
-> "If I have seen further it is by standing on the shoulders of Giants." - Isaac Newton
+> "If I have seen further it is only by standing on the shoulders of Giants." - Isaac Newton
 
 
 ### Resources:
@@ -41,7 +41,7 @@ What is reality, and how can we understand it? More precisely, how can we descri
 
 
 > "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
-and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski
+and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski, 1908
 
 
 ### Videos:
