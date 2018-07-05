@@ -26,9 +26,9 @@ title: Physics
 
 ### My code:
 
-* Newtonian gravity simulator [python code](https://github.com/WSLockhart/Asteroids)
-* Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. [Here](https://www.youtube.com/watch?v=aPW5df8Cvrc) is one of the final videos!
-* (more coming soon!)
+* *Asteroids*: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids).
+* *Particle Mesh Code*. Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. [Here](https://www.youtube.com/watch?v=aPW5df8Cvrc) is one of the final videos!
+* (will post more soon!)
 
 
 ### Quotes:
