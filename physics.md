@@ -11,6 +11,21 @@ title: Physics
 
 ---
 
+> "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." - Steven Weinberg
+
+What is reality, and how can we understand it? More precisely, how can we describe in a mathematical framework the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other physics miscellanea.  
+
+
+### My code:
+
+* *Asteroids*: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids).
+* *Particle Mesh Code*. Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. [Here](https://www.youtube.com/watch?v=aPW5df8Cvrc) is one of the final videos!
+* (will post more soon!)
+
+
+> "If I have seen further it is by standing on the shoulders of Giants." - Isaac Newton
+
+
 ### Resources:
 
 * [arXiv.org](https://arxiv.org/)
@@ -24,21 +39,8 @@ title: Physics
 * [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas organized by subject
 
 
-### My code:
-
-* *Asteroids*: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids).
-* *Particle Mesh Code*. Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. [Here](https://www.youtube.com/watch?v=aPW5df8Cvrc) is one of the final videos!
-* (will post more soon!)
-
-
-### Quotes:
-
-> "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." - Steven Weinberg
-
 > "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
 and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski
-
-> "If I have seen further it is by standing on the shoulders of Giants." - Isaac Newton
 
 
 ### Videos:
