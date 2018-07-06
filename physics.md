@@ -52,6 +52,9 @@ and only a kind of union of the two will preserve an independent reality."  - He
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - a Youtube channel of wonderful animated math videos
 
 
+![physics image](/images/physics_diagram2.png)
+
+
 <!--
 - [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
 - [Physics Girl](https://www.youtube.com/user/physicswoman)
