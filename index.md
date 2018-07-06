@@ -13,9 +13,7 @@ Welcome to my website in progress!
 
 ### Research:
 
-My research is focused on neutron stars. I use computer simulations to calculate the radiation emitted by these stars 
-(millisecond pulsars to be specific), and predict how that light should look to our telescopes here on Earth. 
-By comparing our models with new observational data from NASA's [NICER](https://www.nasa.gov/nicer) mission, we hope to put constraints on the size, magnetic field, and other fundamental properties of these near-inconceivable objects. 
+My research is focused on neutron stars. Working with professors [Sam Gralla](http://u.arizona.edu/~sgralla/) and [Dimitrios Psaltis](http://xtreme.as.arizona.edu/~dpsaltis/), I am using computer simulations to calculate the radiation emitted by these stars (millisecond pulsars to be specific), and predict how that light should look to our telescopes here on Earth. By comparing our models with new observational data from NASA's [NICER](https://www.nasa.gov/nicer) mission, we hope to put constraints on the size, magnetic field, and other fundamental properties of these near-inconceivable objects. 
 
 I recently started a side project to compile the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf).
 
