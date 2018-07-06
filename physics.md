@@ -13,9 +13,9 @@ title: Physics
 
 > "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." - Steven Weinberg, 1979 Nobel Laureate
 
-What is reality, and how can we understand it? More precisely, how can we build a mathematical framework to describe the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics.  
+What is reality, and how can we understand it? More precisely, how can we build a mathematical framework to describe the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics. <br/>
 
-<br/>
+
 ### Projects / Code:
 
 * *Asteroids*: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids)
