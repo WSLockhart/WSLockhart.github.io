@@ -52,7 +52,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - a Youtube channel of wonderful animated math videos
 
 
-![physics image](/images/physics_diagram2.png)
+![physics image](/images/physics_diagram3.png)
 
 
 <!--
