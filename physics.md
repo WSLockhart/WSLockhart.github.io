@@ -15,7 +15,7 @@ title: Physics
 
 What is reality, and how can we understand it? More precisely, how can we build a mathematical framework to describe the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics.  
 
-
+<br/>
 ### Projects / Code:
 
 * *Asteroids*: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids)
@@ -26,7 +26,7 @@ What is reality, and how can we understand it? More precisely, how can we build 
 
 > "If I have seen further it is only by standing on the shoulders of Giants." - Isaac Newton
 
-
+<br/>
 ### Resources:
 
 * [arXiv.org](https://arxiv.org/)
@@ -43,7 +43,7 @@ What is reality, and how can we understand it? More precisely, how can we build 
 > "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
 and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski, 1908
 
-
+<br/>
 ### Videos:
 
 * [Scale of the universe](https://www.youtube.com/watch?v=GoW8Tf7hTGA)
