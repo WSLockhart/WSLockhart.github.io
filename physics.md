@@ -16,7 +16,7 @@ title: Physics
 What is reality, and how can we understand it? More precisely, how can we build a mathematical framework to describe the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics.  
 
 
-__### Projects / Code:__
+### Projects / Code:
 
 * *Asteroids*: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids)
 * *Particle Mesh Code*. Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. Check out one of the final videos [here](https://www.youtube.com/watch?v=aPW5df8Cvrc)
@@ -27,7 +27,7 @@ __### Projects / Code:__
 > "If I have seen further it is only by standing on the shoulders of Giants." - Isaac Newton
 
 
-### __Resources__:
+### Resources:
 
 * [arXiv.org](https://arxiv.org/)
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
