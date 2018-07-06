@@ -24,7 +24,7 @@ __### Projects / Code:__
 * (will post more soon!)
 
 
-> "If I have seen further it is only by standing on the shoulders of Giants." - Isaac Newtons
+> "If I have seen further it is only by standing on the shoulders of Giants." - Isaac Newton
 
 
 ### __Resources__:
