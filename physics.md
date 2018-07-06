@@ -23,10 +23,9 @@ What is reality, and how can we understand it? More precisely, how can we build 
 * *On the Shoulders of Giants* - a project to compile the all-time great pedagogical physics problems. I hope that someday this can be a lovely resource for students and teachers alike. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf)
 * (will post more soon!)
 
+---
 
 > "If I have seen further it is only by standing on the shoulders of Giants." - Isaac Newton
-
----
 
 ### Resources:
 
@@ -40,11 +39,10 @@ What is reality, and how can we understand it? More precisely, how can we build 
 * [TASI video lectures](https://physicslearning.colorado.edu/tasi/)
 * [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas organized by subject
 
+---
 
 > "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
 and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski, 1908
-
----
 
 ### Videos:
 
