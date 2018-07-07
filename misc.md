@@ -25,14 +25,9 @@ More coming soon...
 * [Euclidea](https://www.euclidea.xyz/) - the compass and straight-edge puzzle challenge
 * [Timelapse](https://www.youtube.com/watch?v=LLCF7vPanrY) of every nuclear weapon detonated from 1945-1998. 
 * [www.erowid.org](https://www.erowid.org/) - the vault of information on and personal accounts of psychoactive drugs
--->
-
 <br/>
-
 NASA TV [live](https://www.nasa.gov/multimedia/nasatv/index.html)
-
 Live view from the International Space Station:
-
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 150%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 <iframe src='https://www.ustream.tv/embed/17074538?html5ui' frameborder='0' allowfullscreen></iframe>
-
+-->
