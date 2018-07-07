@@ -55,8 +55,6 @@ and only a kind of union of the two will preserve an independent reality."  - He
 ![physics image](/images/physics_diagram3.png)
 
 
-<iframe width="480" height="270" src="https://www.ustream.tv/embed/17074538?html5ui" scrolling="no" allowfullscreen webkitallowfullscreen frameborder="0" style="border: 0 none transparent;"></iframe>
-
 
 <!--
 - [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
