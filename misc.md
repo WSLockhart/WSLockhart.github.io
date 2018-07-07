@@ -26,6 +26,9 @@ More coming soon...
 * [www.erowid.org](https://www.erowid.org/) - the vault of information on and personal accounts of psychoactive drugs
 -->
 
+<br/>
+---
+
 Live view from the International Space Station:
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
