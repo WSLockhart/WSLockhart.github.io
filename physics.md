@@ -55,7 +55,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 ![physics image](/images/physics_diagram3.png)
 
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.nasa.gov/fb6eb455-3200-4f9b-8063-e0b6bcc9305b' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='blob:https://www.nasa.gov/fb6eb455-3200-4f9b-8063-e0b6bcc9305b' frameborder='0' allowfullscreen></iframe></div>
 
 <!--
 - [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
