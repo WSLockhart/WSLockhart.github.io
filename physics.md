@@ -38,7 +38,8 @@ What is reality, and how can we understand it? More precisely, how can we build 
 * [Astrobites](https://astrobites.org/) - a blog on recent news and academic papers in astronomy 
 * [The Einstein Papers](https://einsteinpapers.press.princeton.edu/)
 * [TASI video lectures](https://physicslearning.colorado.edu/tasi/)
-* [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas organized by subject
+* [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas, organized by subject
+* (TBA: a list of all the best physics textbooks!)
 
 ---
 
