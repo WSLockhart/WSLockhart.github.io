@@ -6,7 +6,7 @@ title: Film
 #### [Home](index.md) | [Physics](physics.md) | [Film](film.md) | [Game of Go](go.md) | [Misc](misc.md)
 
 # The Surrounding Game: a documentary film
----
+
 
 ![film image](/images/SURROUNDINGGAME_THE_AH2.jpg)
 
