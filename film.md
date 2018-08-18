@@ -7,6 +7,7 @@ title: Film
 
 # The Surrounding Game: a documentary film
 
+---
 
 ![film image](/images/SURROUNDINGGAME_THE_AH2.jpg)
 
