@@ -8,7 +8,7 @@ title: Go
 # The Game of Go
 ---
 
-![Go image](/images/SURROUNDINGGAME_THE_AH2.jpg)
+![Go image](/images/go_image2.png)
 
 
 > "The rules of Go are so elegant, organic and rigorously logical    
