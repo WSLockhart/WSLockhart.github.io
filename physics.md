@@ -10,9 +10,9 @@ title: Physics
 ![physics image](/images/physics_diagram.png)
 
 
-> "The effort to understand the universe is one of the very few things that lifts human life a little above the level of farce, and gives it some of the grace of tragedy." - Steven Weinberg, 1979 Nobel Laureate
+> "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry." - Richard Feynman
 
-What is reality, and how can we understand it? More precisely, how can we build a mathematical framework to describe the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics.
+What is reality, and how can we understand it? More precisely, how can we build a mathematical model to describe the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics.
 
 ---
 
@@ -22,7 +22,7 @@ What is reality, and how can we understand it? More precisely, how can we build 
 * *Particle Mesh Code*. Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. Check out one of the final videos [here](https://www.youtube.com/watch?v=aPW5df8Cvrc)
 * *On the Shoulders of Giants* - a project to compile the all-time great pedagogical physics problems. I hope that someday this can be a lovely resource for students and teachers alike. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf)
 
-(will post more soon!)
+(more soon)
 
 ---
 
@@ -38,7 +38,6 @@ What is reality, and how can we understand it? More precisely, how can we build 
 * [Astrobites](https://astrobites.org/) - a blog on recent news and academic papers in astronomy 
 * [TASI video lectures](https://physicslearning.colorado.edu/tasi/)
 * [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas, organized by subject
-* (TBA: a list of the best textbooks in each subject)
 
 ---
 
