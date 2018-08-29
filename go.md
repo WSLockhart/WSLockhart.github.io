@@ -19,3 +19,4 @@ There is a nice tutorial starting from the very beginning [here](http://playgo.t
 
 I will add a lot more to this page eventually. For now just go to [surroundinggamemovie.com/play-go/](https://www.surroundinggamemovie.com/play-go/).
 
+If you're in Tucson you can check out the [Tucson Go Club](http://tucsongoclub.com/) which meets Sundays from 4-8pm. 
