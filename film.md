@@ -16,12 +16,7 @@ The project was a labor of love, a worldly adventure, and my attempt to synthesi
 
 >THE SURROUNDING GAME follows the lives of three young Americans vying to become the first-ever Western professional players. As the competition intensifies and intricate patterns spill out across the board, the line between reality and imagination starts to blur. Their thoughts turn to anxieties about the future, and lead them on a journey through the game’s ancient past to ask what it means to live a meaningful life. Through an intimate portrait of these young players and interviews with the greatest Go masters of all time, the film explores the search for meaning that Go represents to its players, for whom the game is a distillation of consciousness itself.
 
-<p align="center">
-  <a We're now on href="https://www.netflix.com/title/81006598">NETFLIX</a>
-</p>
-
-We're now on [NETFLIX](https://www.netflix.com/title/81006598)!
-
+#### We're now on [NETFLIX](https://www.netflix.com/title/81006598)!
 
 #### You can also buy a copy of *The Surrounding Game* on these platforms:
 
