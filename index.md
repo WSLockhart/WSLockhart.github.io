@@ -17,7 +17,7 @@ My research focuses on *pulsars* - rapidly spinning neutron stars which emit ele
 
 By comparing our results with new observational data from NASA's [NICER](https://www.nasa.gov/nicer) mission, expected next year, we hope to improve the known constraints on the size, magnetic field, and other fundamental properties of these astounding objects. 
 
-![sun image](/images/solar_Bfield.jpeg)
+![sun image](/images/solar_Bfield_small.jpeg)
 
 
 I recently started a side project to compile the all-time great pedagogical physics problems, entitled *"On the Shoulders of Giants"*. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf).
