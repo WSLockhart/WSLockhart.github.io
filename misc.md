@@ -19,8 +19,6 @@ title: Misc
 
 * This [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history 
 
-* Breathtaking [Scale of the Universe](https://www.youtube.com/watch?v=GoW8Tf7hTGA) video 
-
 More coming soon...
 
 <!--
