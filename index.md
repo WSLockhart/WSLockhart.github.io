@@ -7,7 +7,7 @@ title: Home
 
 # Home
 
-Welcome to my website in progress! 
+Welcome to my website! 
 
 ---
 
