@@ -13,9 +13,7 @@ Welcome to my website!
 
 ### Research:
 
-My research focuses on *pulsars* - rapidly spinning neutron stars which emit electromagnetic radiation. Together with professors [Sam Gralla](http://w3.physics.arizona.edu/people/sam-gralla) and [Dimitrios Psaltis](http://xtreme.as.arizona.edu/~dpsaltis/), I am using computer simulations to model the thermal radiation emitted by these stars. In these radiation patterns are clues to the mysteries of the star's interior, and the nature of ultra-dense baryonic matter beyond the nuclear saturation density. 
-
-By comparing our results with new observational data from NASA's [NICER](https://www.nasa.gov/nicer) mission, expected next year, we hope to improve the known constraints on the size, magnetic field, and other fundamental properties of these astounding objects. 
+My research focuses on *pulsars* - rapidly spinning neutron stars that emit a characteristic pattern of electromagnetic radiation in radio and x-rays. Together with professors [Sam Gralla](http://w3.physics.arizona.edu/people/sam-gralla) and [Dimitrios Psaltis](http://xtreme.as.arizona.edu/~dpsaltis/), I am using computer simulations to model the radiation emitted by these stars. Hidden in these light curves are clues to the mysteries of the neutron star interior, and the nature of ultra-dense matter beyond the nuclear saturation density. By comparing our models with new observational data from NASA's [NICER](https://www.nasa.gov/nicer) mission, we hope to improve the known constraints on the size, magnetic field, and other fundamental properties of these astounding objects. 
 
 I recently started a side project to compile the all-time great pedagogical physics problems. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf).
 
