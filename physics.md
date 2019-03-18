@@ -16,13 +16,16 @@ What is reality, and how can we understand it? More precisely, how can we build 
 
 ---
 
+### My Research:
+
+(coming soon!)
+
+
 ### Projects / Code:
 
 * *Asteroids*: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids)
 * *Particle Mesh Code*. Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. Check out one of the final videos [here](https://www.youtube.com/watch?v=aPW5df8Cvrc)
 * *On the Shoulders of Giants* - a project to compile the all-time great pedagogical physics problems. I hope that someday this can be a lovely resource for students and teachers alike. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf)
-
-(more soon)
 
 ---
 
@@ -42,7 +45,7 @@ What is reality, and how can we understand it? More precisely, how can we build 
 ---
 
 > "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
-and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski, 1908
+and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski
 
 ### Videos:
 
