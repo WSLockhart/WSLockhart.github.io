@@ -20,12 +20,13 @@ What is reality, and how can we understand it? More precisely, how can we build 
 
 (coming soon!)
 
+---
 
-### Projects / Code:
+### Other Projects / Code:
 
-* *Asteroids*: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids)
-* *Particle Mesh Code*. Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. Check out one of the final videos [here](https://www.youtube.com/watch?v=aPW5df8Cvrc)
-* *On the Shoulders of Giants* - a project to compile the all-time great pedagogical physics problems. I hope that someday this can be a lovely resource for students and teachers alike. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf)
+* **Asteroids**: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids)
+* **Particle Mesh Code**: Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. Check out one of the final videos [here](https://www.youtube.com/watch?v=aPW5df8Cvrc)
+* **On the Shoulders of Giants**: A project to compile the all-time great pedagogical physics problems. I hope that someday this can be a lovely resource for students and teachers alike. Problem suggestions are welcome! You can see a sample page [here](/docs/TimelessProblems_sample.pdf)
 
 ---
 
