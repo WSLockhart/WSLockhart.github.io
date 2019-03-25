@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-#### [Home](index.md) | [Physics](physics.md) | [Film](film.md) | [Game of Go](go.md) | [Misc](misc.md)
+#### [Home](index.md) | [Research](research.md) | [Physics](physics.md) | [Film](film.md) | [Game of Go](go.md) | [Misc](misc.md)
 
 # Home
 
