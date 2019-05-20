@@ -19,6 +19,8 @@ title: Misc
 
 * This [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history 
 
+* [Markov-chain Monte Carlo (MCMC) interactive gallery](https://chi-feng.github.io/mcmc-demo)
+
 More coming soon...
 
 <!--
