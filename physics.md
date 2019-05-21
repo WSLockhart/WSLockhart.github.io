@@ -12,7 +12,7 @@ title: Physics
 
 > "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry." - Richard Feynman
 
-What is reality, and how can we understand it? More precisely, how can we build a mathematical model to describe the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics.
+What is reality, and how can we understand it? More precisely, how can we construct mathematical models to describe the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics.
 
 ---
 
