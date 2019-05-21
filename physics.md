@@ -38,6 +38,7 @@ What is reality, and how can we understand it? More precisely, how can we constr
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/info/) books & corresponding [video lecture series](http://www.cornell.edu/video/playlist/richard-feynman-messenger-lectures)
 * Richard Feynman's [*Fun to Imagine*](https://www.youtube.com/playlist?list=PLF68C9368E6723478) videos (must-watch!)
+* David Tong's graduate-level[Lecture Notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) on theoretical physics
 * The Physics [Stack Exchange](https://physics.stackexchange.com/)
 * [Astrobites](https://astrobites.org/) - a blog on recent news and academic papers in astronomy 
 * [TASI video lectures](https://physicslearning.colorado.edu/tasi/)
