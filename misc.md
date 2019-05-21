@@ -10,6 +10,7 @@ title: Misc
 
 ![conway gif](/images/glidergun_cropped.gif)
 
+Some random things you might like while you're here:
 
 * [Conway's Game of Life](https://playgameoflife.com/) - glider guns, are you kiddin' me!? Explore the original cellular automata, one of the best demonstrations of *emergence* ever created
 
@@ -21,10 +22,12 @@ title: Misc
 
 * [Markov-chain Monte Carlo (MCMC) interactive gallery](https://chi-feng.github.io/mcmc-demo)
 
+* [Euclidea](https://www.euclidea.xyz/) - the compass and straight-edge puzzle challenge
+
 More coming soon...
 
 <!--
-* [Euclidea](https://www.euclidea.xyz/) - the compass and straight-edge puzzle challenge
+
 * [Timelapse](https://www.youtube.com/watch?v=LLCF7vPanrY) of every nuclear weapon detonated from 1945-1998. 
 * [www.erowid.org](https://www.erowid.org/) - the vault of information on and personal accounts of psychoactive drugs
 <br/>
