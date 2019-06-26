@@ -18,7 +18,10 @@ What is reality, and how can we understand it? More precisely, how can we constr
 
 ### My Research:
 
-(more detailed description here soon)
+My research focuses on *pulsars* - rapidly spinning neutron stars that emit a characteristic pattern of electromagnetic radiation in radio and x-rays. Together with professors [Sam Gralla](http://w3.physics.arizona.edu/people/sam-gralla), [Dimitrios Psaltis](http://xtreme.as.arizona.edu/~dpsaltis/), and [Feryal Ozel](http://xtreme.as.arizona.edu/~fozel/), I am using computer simulations to model the radiation emitted by these stars. Hidden in these light curves are clues to the properties of the neutron star and the mechanism that produces their exotic x-ray emission. Our first paper describing the model can be found on the [arxiv](https://arxiv.org/abs/1904.11534). 
+
+My current project is to compare the results of our model with the most recent data from NASA's Neutron-star Interior Composition ExploreR ([NICER](https://www.nasa.gov/nicer)). In order to do this analysis, I am using a Markov-Chain Monte Carlo (MCMC) algorithm to fit model parameters to the data observed. 
+
 
 ---
 
