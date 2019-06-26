@@ -18,11 +18,11 @@ What is reality, and how can we understand it? More precisely, how can we constr
 
 ### My Research:
 
-My research focuses on *pulsars* - rapidly spinning neutron stars that emit a characteristic pattern of electromagnetic radiation in radio and x-rays. Together with professors [Sam Gralla](http://w3.physics.arizona.edu/people/sam-gralla), [Dimitrios Psaltis](http://xtreme.as.arizona.edu/~dpsaltis/), and [Feryal Ozel](http://xtreme.as.arizona.edu/~fozel/), I am using computer simulations to model the radiation emitted by these stars. Hidden in these light curves are clues to the properties of the neutron star and the mechanism that produces their exotic x-ray emission, and if we can understand well enough how these pulsars work we can actually learn something about ultra-dense nuclear matter, of which they are composed. Our first paper describing the model can be found on the [arxiv](https://arxiv.org/abs/1904.11534). 
+My research focuses on *pulsars* - rapidly spinning neutron stars that emit a characteristic pattern of electromagnetic radiation in radio and x-rays. I am working with professors [Sam Gralla](http://w3.physics.arizona.edu/people/sam-gralla), [Dimitrios Psaltis](http://xtreme.as.arizona.edu/~dpsaltis/), and [Feryal Ozel](http://xtreme.as.arizona.edu/~fozel/) to model the radiation emitted by these stars using computer simulations. The detailed structure of these light curves contain clues to the properties of neutron stars and the mechanism that produces their exotic x-ray emission. If we can understand the subtle relationship between the properties of these pulsars and the shape of their light curves, we can actually learn something about the exotic ultra-dense nuclear matter of which they are composed. Our first paper describing our apporach to light curve modeling can be found on the [arxiv](https://arxiv.org/abs/1904.11534). 
 
 ![pulsars](/images/Fig1_dipole.png)
 
-My current project is to compare the results of our model with the most recent data from NASA's Neutron-star Interior Composition ExploreR ([NICER](https://www.nasa.gov/nicer)). In order to do this analysis, I am using a Markov-Chain Monte Carlo (MCMC) algorithm to fit model parameters to the data observed. 
+My current project is to compare the results of our model with the most recent data from NASA's Neutron-star Interior Composition ExploreR ([NICER](https://www.nasa.gov/nicer)). In order to do this analysis, I am using a Markov-Chain Monte Carlo (MCMC) algorithm to find the set of model parameters which best fit the observed data. We expect to report on this next year! 
 
 
 ---
