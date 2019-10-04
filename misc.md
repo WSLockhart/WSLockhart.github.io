@@ -10,18 +10,14 @@ title: Misc
 
 ![conway gif](/images/glidergun_cropped.gif)
 
-Some random things you might like while you're here:
+Some random things on the web you might enjoy:
 
 * [Conway's Game of Life](https://playgameoflife.com/) - glider guns, are you kiddin' me!? Explore the original cellular automata, one of the best demonstrations of *emergence* ever created
-
-* [*A Mathematician's Lament*](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) - the ultimate critique of the school system and how school destroys curiosity
-
+* [*A Mathematician's Lament*](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) - a brilliant critique of the standard K-12 school system and how school destroys curiosity
 * [Anagrams code](https://github.com/WSLockhart/Anagrams) - a program I wrote in python to play a perfect game of *Anagrams*. See the README for an explanation of the game and how to run the program
-
+* [thegreatestbooks.org](https://thegreatestbooks.org) - A list of the all-time greatest works of fiction and non-fiction, compiled via a weighted average of dozens of best-of lists from across the web 
 * This [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history 
-
 * [Markov-chain Monte Carlo (MCMC) interactive gallery](https://chi-feng.github.io/mcmc-demo)
-
 * [Euclidea](https://www.euclidea.xyz/) - the compass and straight-edge puzzle challenge
 
 More coming soon...
