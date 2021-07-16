@@ -25,7 +25,7 @@ Our first paper can be found on the [arxiv](https://arxiv.org/abs/1904.11534).  
 
 ### Teaching:
 
-I have two years' experience as a teaching assistant (TA) for the freshman undergraduate physics courses at the [UofA](http://w3.physics.arizona.edu/): 141 (Mechanics) and 241 (Electricity & Magnetism). 
+I have three years' experience as a teaching assistant (TA) for the freshman undergraduate physics courses at the [UofA](http://w3.physics.arizona.edu/): 141 (Mechanics) and 241 (Electricity & Magnetism). 
 
 I am a nationally ranked 5-dan amateur Go player, and I have taught Go both in private lessons and group workshops.
 
