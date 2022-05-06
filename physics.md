@@ -49,6 +49,7 @@ My current project is to compare the results of our model with the most recent d
 * [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas, organized by subject
 * [Astrobites](https://astrobites.org/) - a blog on recent news and academic papers in astronomy 
 * [Sean Carroll's blog, "presposterous universe"](https://www.preposterousuniverse.com)
+* [PBS Spacetime Youtube channel](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
 * [John Baez](http://math.ucr.edu/home/baez/)
 
 ---
