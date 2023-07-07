@@ -3,7 +3,9 @@ layout: default
 title: Ecocide
 ---
 
-# Ecocide
+# Overshoot
+
+<!---
 
 On the destruction of the Earth's ecosystem and the future of human civilization.
 
@@ -12,3 +14,5 @@ On the destruction of the Earth's ecosystem and the future of human civilization
 
 * [Ourworldindata.org](https://ourworldindata.org/) - an excellent resource for global consumption data and trends
 * [The Azimuth Project](http://www.azimuthproject.org/)
+
+--->
