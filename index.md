@@ -37,5 +37,5 @@ I am a nationally ranked 5-dan amateur Go player, and I have taught Go both in p
 
 ### My film:
 
-From 2012-2016 I directed a feature-length documentary film on the game of Go, [*The Surrounding Game*](https://www.surroundinggamemovie.com/). The project was a labor of love, a worldly adventure, and my attempt to synthesize all the emotions and philosophical questions the game inspires in me. The movie is now available on major streaming platforms - go watch it! Or see the [Film](film.md) tab for more info.
+From 2012-2016 I directed a feature-length documentary film on the game of Go, [*The Surrounding Game*](https://www.surroundinggamemovie.com/). The project was a labor of love, a worldly adventure, and my attempt to synthesize all the emotions and philosophical questions the game inspires in me. The movie is  available to buy or rent on the website through Vimeo-on-Demand - go watch it! Or see the [Film](film.md) tab for more info.
 
