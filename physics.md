@@ -23,7 +23,7 @@ I started my academic career as a physicist, studying the astrophysics of compac
 
 
 
-I also did some work on *pulsars* - rapidly spinning neutron stars that emit a characteristic pattern of electromagnetic radiation in radio and x-rays - to model the radiation emitted by these stars using computer simulations. The detailed structure of these light curves contain clues to the properties of neutron stars and the mechanism that produces their exotic x-ray emission. If we can understand the subtle relationship between the properties of these pulsars and the shape of their light curves, we can actually learn something about the exotic ultra-dense nuclear matter of which they are composed. Our first paper describing our apporach to light curve modeling can be found on the [arxiv](https://arxiv.org/abs/1904.11534). 
+I also did some work on *pulsars* - rapidly spinning neutron stars that emit a characteristic pattern of electromagnetic radiation in radio and x-rays - to model the radiation emitted by these stars using computer simulations. The detailed structure of these light curves contain clues to the properties of neutron stars and the mechanism that produces their exotic x-ray emission. If we can understand the subtle relationship between the properties of these pulsars and the shape of their light curves, we can actually learn something about the exotic ultra-dense nuclear matter of which they are composed. We compared models of the ray-traced emission with observational data from NASA's Neutron-star Interior Composition ExploreR ([NICER](https://www.nasa.gov/nicer)) mission. Our paper describing our apporach to light curve modeling can be found on the [arxiv](https://arxiv.org/abs/1904.11534). 
 
 ![pulsars](/images/Fig1_dipole.png)
 
