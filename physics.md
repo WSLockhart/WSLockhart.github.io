@@ -10,7 +10,8 @@ title: Physics
 ![physics image](/images/physics_diagram.png)
 
 
-> "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry." - Richard Feynman
+> "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry."
+> - Richard Feynman
 
 What is reality, and how can we understand it? More precisely, how can we construct mathematical models to describe the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics.
 
@@ -35,20 +36,21 @@ My current project is to compare the results of our model with the most recent d
 
 ---
 
-> "If I have seen further it is only by standing on the shoulders of Giants." - Isaac Newton
+> "If I have seen further it is only by standing on the shoulders of Giants."
+> - Isaac Newton
 
 ### Resources:
 
 * [arXiv.org](https://arxiv.org/)
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
-* The Physics [Stack Exchange](https://physics.stackexchange.com/)
+* [Physics Stack Exchange](https://physics.stackexchange.com/)
 * [The Feynman Lectures](http://www.feynmanlectures.caltech.edu/info/) books & corresponding [video lecture series](http://www.cornell.edu/video/playlist/richard-feynman-messenger-lectures)
 * Richard Feynman's [*Fun to Imagine*](https://www.youtube.com/playlist?list=PLF68C9368E6723478) videos (must-watch!)
 * David Tong's graduate-level [Lecture Notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) on theoretical physics
 * [TASI video lectures](https://physicslearning.colorado.edu/tasi/)
-* [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas, organized by subject
+* [Physics Formulary](https://physics.illinois.edu/academics/graduates/physics-formulary.pdf) - a huge pdf of useful formulas, by subject
 * [Astrobites](https://astrobites.org/) - a blog on recent news and academic papers in astronomy 
-* [Sean Carroll's blog, "presposterous universe"](https://www.preposterousuniverse.com)
+* Sean Carroll's blog, ["presposterous universe"](https://www.preposterousuniverse.com)
 * [PBS Spacetime](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) Youtube channel
 * [John Baez](http://math.ucr.edu/home/baez/)
 
@@ -59,22 +61,11 @@ and only a kind of union of the two will preserve an independent reality."  - He
 
 ### Videos:
 
-* [Scale of the universe](https://www.youtube.com/watch?v=GoW8Tf7hTGA)
-* [Magnet and copper pipe](https://www.youtube.com/watch?v=5BeFoz3Ypo4)
-* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - a Youtube channel of wonderful animated math videos
-* [James O'Donohhue](https://www.youtube.com/channel/UCSaCQr2ppyNUY_kjnWY1yVQ) - Animations of the Solar System
+* [The scale of the universe](https://www.youtube.com/watch?v=GoW8Tf7hTGA)
+* [The magnet and the copper pipe](https://www.youtube.com/watch?v=5BeFoz3Ypo4) - the best physics demo ever
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - a brilliant pedagogical Youtube channel of animated math videos
+* [James O'Donohhue](https://www.youtube.com/channel/UCSaCQr2ppyNUY_kjnWY1yVQ) - animations of the Solar System
 
 
 ![physics image](/images/physics_diagram3.png)
 
-
-
-<!--
-- [Minute Physics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
-- [Physics Girl](https://www.youtube.com/user/physicswoman)
-<img src="https://github.com/WSLockhart/Physics/blob/master/go_position_cropped.png" height="200">
-<img {
-    opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
-}
--->
