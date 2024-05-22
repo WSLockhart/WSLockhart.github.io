@@ -27,9 +27,6 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 
 ![pulsars](/images/Fig1_dipole.png)
 
-My current project is to compare the results of our model with the most recent data from NASA's Neutron-star Interior Composition ExploreR ([NICER](https://www.nasa.gov/nicer)). In order to do this analysis, I am using a Markov-Chain Monte Carlo (MCMC) algorithm to find the set of model parameters which best fit the observed data. We expect to report on this next year! 
-
-
 ---
 
 ### Other Projects / Code:
