@@ -26,7 +26,7 @@ The project was a community-supported labor of love, a crazy adventure, and my a
 and on **[VHX](http://thesurroundinggame.vhx.tv/)** directly through our website [surroundinggamemovie.com](https://www.surroundinggamemovie.com/). 
 -->
 
-We were on Netflix from 2018-2020. The film is currently available through [Vimeo-on-demand](https://vimeo.com/ondemand/thesurroundinggame) or on our website at https://www.surroundinggamemovie.com/, and includes 30 minutes of *bonus material and deleted scenes*. The film is 97 minutes, and has been translated into over a dozen languages! To inquire about getting a physical copy on DVD or Blu-ray, you can contact me. 
+We were on Netflix from 2018-2020. The film is currently available through [Vimeo-on-demand](https://vimeo.com/ondemand/thesurroundinggame) or on our website at [surroundinggamemovie.com](https://www.surroundinggamemovie.com/), and includes 30 minutes of *bonus material and deleted scenes*. The film is 97 minutes, and has been translated into over a dozen languages! To inquire about getting a physical copy on DVD or Blu-ray, you can contact me. 
 
 #### Watch the trailer:
 
