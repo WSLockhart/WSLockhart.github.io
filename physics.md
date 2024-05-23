@@ -10,8 +10,7 @@ title: Physics
 ![physics image](/images/physics_diagram.png)
 
 
-> "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry."
-> - Richard Feynman
+> "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry."     - Richard Feynman
 
 What is reality, and how can we understand it? More precisely, how can we construct mathematical models to describe the patterns we observe in Nature? This is the starting point for the most fundamental of all the branches of science. On this page you'll find a few of my favorite resources, past projects, and other miscellanea related to the study of physics.
 
@@ -41,8 +40,7 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 
 ---
 
-> "If I have seen further it is only by standing on the shoulders of Giants."
-> - Isaac Newton
+> "If I have seen further it is only by standing on the shoulders of Giants."     - Isaac Newton
 
 ### Resources
 
