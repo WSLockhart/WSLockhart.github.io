@@ -17,11 +17,15 @@ What is reality, and how can we understand it? More precisely, how can we constr
 
 ---
 
-### My Research:
+### Black Holes and Photon Rings
 
 I started my academic career as a physicist, studying the astrophysics of compact objects. I wrote my PhD dissertation on black hole images from the Event Horizon Telescope (EHT), an experiment to image the near-horizon region of a supermassive black hole for the first time. Building on existing data analysis techniques, but with a code designed from scratch, professor Sam Gralla and I investigated what these reconstructed images tell us about the nature of the source. We published several papers analyzing the 2017 data on M87* (a super-massive black hole candidate located at the core of the galaxy M87) in which we confirmed some of the EHT collaboration's main results, and found something new: we show that a subtle change in the so-called 'likelihood function' used to compare model with data can affect one of the key parameters of interest, the width of the observed ring. The width is very interesting, as it has the potential to distinguish between different astrophysical scenarios. You can find these two papers here: _On the Width of the Observed Ring in M87*_ [Part 1](https://arxiv.org/abs/2107.06948), [Part 2](https://arxiv.org/abs/2208.09989).
 
 ![eht](/images/eht.png)
+
+---
+
+### Pulsars
 
 I also did some work on *pulsars* - rapidly spinning neutron stars that emit a characteristic pattern of electromagnetic radiation in radio and x-rays - to model the radiation emitted by these stars using computer simulations. The detailed structure of these light curves contain clues to the properties of neutron stars and the mechanism that produces their exotic x-ray emission. If we can understand the subtle relationship between the properties of these pulsars and the shape of their light curves, we can actually learn something about the exotic ultra-dense nuclear matter of which they are composed. We compared models of the ray-traced emission with observational data from NASA's Neutron-star Interior Composition ExploreR ([NICER](https://www.nasa.gov/nicer)) mission. Our paper describing our apporach to light curve modeling can be found on the [arxiv](https://arxiv.org/abs/1904.11534). 
 
@@ -29,7 +33,7 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 
 ---
 
-### Other Projects / Code:
+### Other Projects / Code
 
 * **Asteroids**: a Newtonian gravity simulator. Download the [python code](https://github.com/WSLockhart/Asteroids)
 * **Particle Mesh Code**: Last spring I co-wrote a particle mesh code for a course in cosmology. The code loosely simulates large-scale structure formation in the universe. Check out one of the final videos [here](https://www.youtube.com/watch?v=aPW5df8Cvrc)
@@ -40,7 +44,7 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 > "If I have seen further it is only by standing on the shoulders of Giants."
 > - Isaac Newton
 
-### Resources:
+### Resources
 
 * [arXiv.org](https://arxiv.org/)
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
@@ -60,7 +64,7 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 > "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
 and only a kind of union of the two will preserve an independent reality."  - Hermann Minkowski
 
-### Videos:
+### Videos
 
 * [The scale of the universe](https://www.youtube.com/watch?v=GoW8Tf7hTGA)
 * [The magnet and the copper pipe](https://www.youtube.com/watch?v=5BeFoz3Ypo4) - the best physics demo ever
