@@ -39,7 +39,7 @@ Our first paper can be found on the [arxiv](https://arxiv.org/abs/1904.11534).  
 
 ---
 
-![image](/images/phd-talk.jpg)
+![image](/images/phd-talk.JPG)
 
 
 ### Teaching:
