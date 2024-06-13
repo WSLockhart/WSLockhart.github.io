@@ -9,7 +9,7 @@ title: Film
 
 ---
 
-![film image](/images/SURROUNDINGGAME_THE_AH2.jpg)
+![film image](/images/TSG_collage.png)
 
 From 2012-2017 I directed a feature-length documentary film on the game of Go, **[*The Surrounding Game*](https://www.surroundinggamemovie.com/)**. 
 The project was a community-supported labor of love, a crazy adventure, and my attempt to communicate all the emotions and philosophical questions the game inspires in me. 
