@@ -13,7 +13,7 @@ I am a Research Fellow at the [Institute on the Environment (IonE)](https://envi
 
 ---
 
-![physics image](/images/SolarSystem.png)
+![image](/images/SolarSystem.jpg)
 
 
 ### Research:
