@@ -39,6 +39,9 @@ Our first paper can be found on the [arxiv](https://arxiv.org/abs/1904.11534).  
 
 ---
 
+![image](/images/phd-talk.jpg)
+
+
 ### Teaching:
 
 I enjoy the challenge of boiling down complex problems and conveying abstract ideas to a general audience. I have several years' experience as a teaching assistant (TA) for the freshman undergraduate physics courses at the University of Arizona: 141 (Mechanics) and 241 (Electricity & Magnetism). 
