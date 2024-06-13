@@ -13,6 +13,9 @@ I am a Research Fellow at the [Institute on the Environment (IonE)](https://envi
 
 ---
 
+![physics image](/images/SolarSystem.png)
+
+
 ### Research:
 
 My current research focuses on the environmental impacts of land use in the United States. Agriculture now takes up [nearly half of all habitable land](https://ourworldindata.org/land-use) on Earth (the majority of which goes to feeding livestock), and is one of the biggest contributors to greenhouse gas emissions, freshwater depletion, and biodiversity loss. At the same time, food is essential for human survival - so to create a sustainable world we must fix our agricultural system. I work on developing IonE’s Food System Supply-chain Sustainability (FoodS<sup>3</sup>) model, which traces the impacts of US agriculture through the food supply chain. This will enable more accurate, region-specific carbon footprinting for the meat and dairy industries. I am also involved in a joint project between IonE and the US Forest Service on carbon accounting, using geospatial data to create detailed maps of carbon sources and sinks. 
