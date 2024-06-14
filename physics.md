@@ -64,6 +64,10 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 * [PBS Spacetime](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) Youtube channel
 * [John Baez](http://math.ucr.edu/home/baez/)
 
+
+![books](/images/rare-books.jpeg)
+
+
 ---
 
 > "Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, 
