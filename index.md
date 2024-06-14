@@ -11,10 +11,9 @@ Welcome to my website!
 
 I am a Research Fellow at the [Institute on the Environment (IonE)](https://environment.umn.edu/staff/will-lockhart/) working at the intersection of data science and sustainability. A physicist by training, I have expertise in modeling, data analysis and visualization, and thinking about complex systems in general. Lately my focus has been on the ecological [overshoot crisis](TheOvershootCrisis.pdf) and questions around how humanity can create a more resilient, sustainable, and equitable future. 
 
----
-
 ![image](/images/SolarSystem.jpg)
 
+---
 ### Research:
 
 My current research focuses on the environmental impacts of land use in the United States. Agriculture now takes up [nearly half of all habitable land](https://ourworldindata.org/land-use) on Earth (the majority of which goes to feeding livestock), and is one of the biggest contributors to greenhouse gas emissions, freshwater depletion, and biodiversity loss. At the same time, food is essential for human survival - so to create a sustainable world we must fix our agricultural system. I work on developing IonE’s Food System Supply-chain Sustainability (FoodS<sup>3</sup>) model, which traces the impacts of US agriculture through the food supply chain. This will enable more accurate, region-specific carbon footprinting for the meat and dairy industries. I am also involved in a joint project between IonE and the US Forest Service on carbon accounting, using geospatial data to create detailed maps of carbon sources and sinks. 
@@ -36,21 +35,22 @@ My research focuses on *pulsars* - rapidly spinning neutron stars that emit a ch
 
 Our first paper can be found on the [arxiv](https://arxiv.org/abs/1904.11534).  -->
 
----
-
 ![image](/images/phd-talk.JPG)
 
+---
 ### Teaching:
 
 I enjoy the challenge of boiling down complex problems and conveying abstract ideas to a general audience. I have several years' experience as a teaching assistant (TA) for the freshman undergraduate physics courses at the University of Arizona: 141 (Mechanics) and 241 (Electricity & Magnetism). 
 
 I am a nationally ranked 5-dan Go player, and I have taught Go both in private lessons and group workshops.
 
+![film image](/images/twitch.png)
+
 ---
-
-![film image](/images/SURROUNDINGGAME_THE_AH2.jpg)
-
 ### My film:
 
 From 2012-2016 I directed a feature-length documentary film, [*The Surrounding Game*](https://www.surroundinggamemovie.com/), about the game of Go. The project was a labor of love, a worldly adventure, and my attempt to synthesize all the emotions and philosophical questions the game inspires in me. The movie is available to buy or rent on the website through Vimeo-on-Demand - go watch it! Or see the [Film](film.md) tab for more info.
+
+![film image](/images/SURROUNDINGGAME_THE_AH2.jpg)
+
 
