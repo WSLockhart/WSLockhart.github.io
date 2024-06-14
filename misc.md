@@ -14,9 +14,9 @@ Some random things on the web you might enjoy:
 
 * [*The Great Simplification* podcast](https://www.youtube.com/@thegreatsimplification) - I highly recommend this podcast, which features in-depth interviews of researchers, activists, and experts on the human predicament in the age of the anthropocene. 
 * [Conway's Game of Life](https://playgameoflife.com/) - glider guns, are you kiddin' me!? Explore the original cellular automata, one of the best demonstrations of *emergence* ever created
-* [*A Mathematician's Lament*](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) - a brilliant critique of K-12 math education and how school can actually suppress creativity
-* [yellowjacket books](https://www.ebay.com/usr/yellowjacketbooks) - I collect books as a hobby and also run a modest ebay store. Mostly vintage classics in science, literature, and sci-fi, in hardcover with original dust jackets. 
+* [*A Mathematician's Lament*](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) - a brilliant critique of K-12 math education and how school teaches kids not how to create, but how to conform
 * [Anagrams code](https://github.com/WSLockhart/Anagrams) - a program I wrote in python to play a perfect game of *Anagrams*. See the README for an explanation of the game and how to run the program
+* [yellowjacket books](https://www.ebay.com/usr/yellowjacketbooks) - I collect books as a hobby and also run a modest ebay store. Mostly vintage classics in science, literature, and sci-fi, in hardcover with original dust jackets. 
 * [thegreatestbooks.org](https://thegreatestbooks.org) - A list of the all-time greatest works of fiction and non-fiction, compiled via a weighted average of dozens of best-of lists from across the web 
 * [Our world in data](https://ourworldindata.org) - a project to make research and data on the world's biggest challenges – poverty, war, climate change, etc - accessible to the public
 * This [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history 
