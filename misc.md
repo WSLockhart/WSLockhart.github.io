@@ -23,7 +23,6 @@ Some random things on the web you might enjoy:
 * Markov-chain Monte Carlo (MCMC) [interactive gallery](https://chi-feng.github.io/mcmc-demo)
 * [Euclidea](https://www.euclidea.xyz/) - the compass and straight-edge puzzle challenge
 
-More coming soon...
 
 <!--
 
