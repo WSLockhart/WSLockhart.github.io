@@ -12,7 +12,7 @@ title: Misc
 
 Some random things on the web you might enjoy:
 
-* [*The Great Simplification* podcast](https://www.youtube.com/@thegreatsimplification) - I highly recommend this podcast, which features in-depth interviews of researchers, activists, and experts on the human predicament in the age of the anthropocene. 
+* [*The Great Simplification* podcast](https://www.youtube.com/@thegreatsimplification) - I highly recommend this podcast, which features in-depth interviews of researchers, activists, and experts on the human predicament in the age of the anthropocene
 * [Conway's Game of Life](https://playgameoflife.com/) - glider guns, are you kiddin' me!? Explore the original cellular automata, one of the best demonstrations of *emergence* ever created
 * [*A Mathematician's Lament*](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) - a brilliant critique of K-12 math education and how school teaches kids not to create, but to conform
 * [Anagrams code](https://github.com/WSLockhart/Anagrams) - a program I wrote in python to play a perfect game of *Anagrams*. See the README for an explanation of the game and how to run the program
