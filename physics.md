@@ -22,6 +22,13 @@ I started my academic career as a physicist, studying the astrophysics of compac
 
 ![eht](/images/eht.png)
 
+
+<!--- I also spent some time working on pulsars. Together with professors [Dimitrios Psaltis](http://xtreme.as.arizona.edu/~dpsaltis/), and [Feryal Ozel](http://xtreme.as.arizona.edu/~fozel/), we compared models of the ray-traced thermal emission from the neutron star surface with observational data from NASA's [NICER](https://www.nasa.gov/nicer) mission, in an effort to improve constraints on the mass-radius relationship of these amazing objects. Our paper on the subject can be found [here](https://arxiv.org/abs/1904.11534).
+
+My research focuses on *pulsars* - rapidly spinning neutron stars that emit a characteristic pattern of electromagnetic radiation in radio and x-rays. Together with professors [Sam Gralla](http://w3.physics.arizona.edu/people/sam-gralla), [Dimitrios Psaltis](http://xtreme.as.arizona.edu/~dpsaltis/), and [Feryal Ozel](http://xtreme.as.arizona.edu/~fozel/), I am using computer simulations to model the radiation emitted by these stars. Hidden in these light curves are clues to the mysteries of the neutron star interior, and the nature of ultra-dense matter beyond the nuclear saturation density. By comparing our models with new observational data from NASA's [NICER](https://www.nasa.gov/nicer) mission, we hope to improve the known constraints on the size, magnetic field, and other fundamental properties of these astounding objects. 
+
+Our first paper can be found on the [arxiv](https://arxiv.org/abs/1904.11534).  -->
+
 ---
 
 ### Pulsars
