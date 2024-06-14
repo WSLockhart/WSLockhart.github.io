@@ -12,7 +12,7 @@ title: Misc
 
 Some random things on the web you might enjoy:
 
-* [*The Great Simplification* podcast](https://www.youtube.com/@thegreatsimplification) - I highly recommend this podcast, which features in-depth interviews of researchers, activists, and experts on the human predicament
+* [*The Great Simplification* podcast](https://www.youtube.com/@thegreatsimplification) - I highly recommend this podcast, which features in-depth interviews of researchers, activists, and experts on the human predicament in the age of the anthropocene. 
 * [Conway's Game of Life](https://playgameoflife.com/) - glider guns, are you kiddin' me!? Explore the original cellular automata, one of the best demonstrations of *emergence* ever created
 * [*A Mathematician's Lament*](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) - a brilliant critique of the standard K-12 school system and how school destroys curiosity
 * [yellowjacket books](https://www.ebay.com/usr/yellowjacketbooks) - I collect books as a hobby and also run a modest ebay store. Mostly vintage classics in science, literature, and sci-fi, in hardcover with original dust jackets. 
