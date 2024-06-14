@@ -40,7 +40,7 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 
 ---
 
-> "If I have seen further it is only by standing on the shoulders of Giants."     - Isaac Newton
+> "If I have seen further it is only by standing on the shoulders of Giants." <br /> - Isaac Newton
 
 ### Resources
 
