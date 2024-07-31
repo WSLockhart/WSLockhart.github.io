@@ -28,4 +28,4 @@ There is an online tutorial starting from the very beginning [here](https://play
 - [Go Puzzles](https://www.goproblems.com)
 - [The Surrounding Game](https://www.surroundinggamemovie.com/): a documentary film
 
-Last but not least, if you're in the Minneapolis–Saint Paul area, the [Twin Cities Go Club](https://baduk.club/club/twincities) meets on Thursdays and Saturdays. Beginners welcome!
+Last but not least, if you're in the Minneapolis–St Paul area, the [Twin Cities Go Club](https://twincitiesgo.club/) meets on Thursdays and Saturdays. Beginners welcome!
