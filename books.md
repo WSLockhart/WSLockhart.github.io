@@ -13,7 +13,7 @@ title: Books
 ---
 
 <p align="center">
-  <img alt="books1" src="images/books-1.JPEG" width="48%">
+  <img alt="books1" src="images/books-1.JPEG" width="47%">
 &nbsp; &nbsp; &nbsp;
   <img alt="books2" src="images/books-2.JPEG" width="40%">
 </p>
