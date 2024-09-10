@@ -12,7 +12,7 @@ title: Books
 
 ---
 
-![books](/images/rare-books.jpeg)
+![books](/images/books-4.JPEG)
 
 
 ### Book Collecting
@@ -31,7 +31,7 @@ For some cool book lists, check out [thegreatestbooks.org](https://thegreatestbo
 
 | ![physics books](/images/rare-books.jpeg) | 
 |:--:| 
-| * Vintage physics textbooks. The series in green jackets is the famous Landau and Lifshitz "Course of Theoretical Physics", a legendary series written by two Soviet scientists known for its remarkable logical clarity. Sometimes I think that if civilization was destroyed, these are the books I would preserve. * |
+| *Vintage physics textbooks. The series in green jackets is the famous Landau and Lifshitz "Course of Theoretical Physics", a legendary series written by two Soviet scientists known for its remarkable logical clarity. Sometimes I think that if civilization was destroyed, these are the books I would preserve.* |
 
 
 
