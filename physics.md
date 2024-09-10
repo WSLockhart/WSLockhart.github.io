@@ -49,8 +49,6 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 
 ---
 
-![books](/images/rare-books.jpeg)
-
 ### Resources
 
 * [arXiv.org](https://arxiv.org/)
