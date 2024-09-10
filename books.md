@@ -13,8 +13,8 @@ title: Books
 ---
 
 <p float="left">
-  <img src="/books-1.JPEG" width="100" />
-  <img src="/books-2.JPEG" width="100" /> 
+  <img src="images/books-1.JPEG" width="100" />
+  <img src="images/books-2.JPEG" width="100" /> 
 </p>
 
 ### Resources
