@@ -15,7 +15,7 @@ title: Books
 <p align="center">
   <img alt="books1" src="images/books-1.JPEG" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="books2" src="images/books-2.JPEG" width="45%">
+  <img alt="books2" src="images/books-2.JPEG" width="40%">
 </p>
 
 ### Resources
