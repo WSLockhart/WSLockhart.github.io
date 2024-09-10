@@ -12,10 +12,14 @@ title: Books
 
 ---
 
-![books](/images/rare-books.jpeg)
+![books](/images/books-1.jpg)
 
 ### Resources
 
 * [arXiv.org](https://arxiv.org/)
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [Physics Stack Exchange](https://physics.stackexchange.com/)
+
+---
+
+![books](/images/rare-books.jpeg)
