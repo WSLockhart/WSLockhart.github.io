@@ -17,7 +17,7 @@ Some random things on the web you might enjoy:
 * [*A Mathematician's Lament*](Lockhart_2002_A_Mathematician's_Lament.pdf) - a brilliant critique of K-12 math education and how school teaches kids not to create, but to conform
 * [Anagrams code](https://github.com/WSLockhart/Anagrams) - a program I wrote in python to play a perfect game of *Anagrams*. See the README for an explanation of the game and how to run the program 
 * [Our world in data](https://ourworldindata.org) - a project to make research and data on the world's biggest challenges – poverty, war, climate change, etc - accessible to the public
-* This [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) showing the growth of human civilization throughout history 
+* This [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) from the American Museum of Natural History, showing the growth of human civilization throughout history 
 * Markov-chain Monte Carlo (MCMC) [interactive gallery](https://chi-feng.github.io/mcmc-demo)
 * [Euclidea](https://www.euclidea.xyz/) - the compass and straight-edge puzzle challenge
 
