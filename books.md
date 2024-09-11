@@ -7,11 +7,12 @@ title: Books
 
 # Books
 
+---
+
 ![books](/images/books-4.JPEG)
 
 > "I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me." - Ralph Waldo Emerson
 
----
 
 ### Book Collecting
 
