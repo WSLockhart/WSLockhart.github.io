@@ -3,7 +3,7 @@ layout: default
 title: Film
 ---
 
-#### [Home](index.md) | [Physics](physics.md) | [Film](film.md) | [Game of Go](go.md) | [Misc](misc.md)
+#### [Home](index.md) | [Physics](physics.md) | [Game of Go](go.md) | [Books](books.md) | [Misc](misc.md)
 
 # The Surrounding Game: a documentary film
 
