@@ -3,7 +3,7 @@ layout: default
 title: Go
 ---
 
-#### [Home](index.md) | [Physics](physics.md) | [Film](film.md) | [Game of Go](go.md) | [Misc](misc.md)
+#### [Home](index.md) | [Physics](physics.md) | [Film](film.md) | [Books](books.md) | [Misc](misc.md)
 
 # The Game of Go
 ---
