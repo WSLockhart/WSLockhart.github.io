@@ -3,7 +3,7 @@ layout: default
 title: Physics
 ---
 
-#### [Home](index.md) | [Physics](physics.md) | [Film](film.md) | [Game of Go](go.md) | [Misc](misc.md)
+#### [Home](index.md) | [Film](film.md) | [Game of Go](go.md) | [Books](books.md) | [Misc](misc.md)
 
 # Physics
 
