@@ -9,7 +9,7 @@ title: Books
 
 ---
 
-![books](/images/books-4.JPEG)
+![books](/images/fiction.JPEG)
 
 > "I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me." - Ralph Waldo Emerson
 
@@ -20,11 +20,16 @@ A few years ago I started collecting books as a hobby, with a focus on classic 2
 
 As my collection grew, I opened a store for vintage books on eBay, [Yellowjacket Books](https://www.ebay.com/usr/yellowjacketbooks). I like to browse used bookstores and especially [library book sales](https://booksalefinder.com), where you can often find hidden treasures for just a few dollars. 
 
+<!---
 <p align="center">
   <img alt="books1" src="images/books-1.JPEG" width="47%">
 &nbsp; &nbsp; &nbsp;
   <img alt="books2" src="images/books-2.JPEG" width="40%">
 </p>
+-->
+
+![books](/images/two-book-sets.png)
+
 
 For some cool book lists, check out [thegreatestbooks.org](https://thegreatestbooks.org). This site has compiled lists of the all-time greatest works of fiction and non-fiction, ranked via a weighted average of dozens of best-of lists from across the web.
 
