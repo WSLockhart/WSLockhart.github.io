@@ -32,7 +32,7 @@ As my collection grew, I opened a store for vintage books on eBay, [Yellowjacket
 |:--:| 
 | *left: Antique bindings from Belford & Clarke, circa 1880's. <br /> right: Modern paperbacks by Haruki Murakami* |
 
-For some cool book lists, check out [thegreatestbooks.org](https://thegreatestbooks.org). This site has compiled lists of the all-time greatest works of fiction and non-fiction, ranked via a weighted average of dozens of best-of lists from across the web.
+Finally, check out [thegreatestbooks.org](https://thegreatestbooks.org) for some nice lists of the all-time greatest works of fiction and non-fiction, ranked via a weighted average of dozens of best-of lists from across the web.
 
 | ![physics books](/images/rare-books.jpeg) | 
 |:--:| 
