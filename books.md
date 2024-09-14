@@ -28,16 +28,15 @@ As my collection grew, I opened a store for vintage books on eBay, [Yellowjacket
 </p>
 -->
 
-<figure>
-    <img src="/images/two-book-sets.png" alt="Alt text" />
-    <figcaption>*left: Antique bindings from Belford & Clarke, circa 1880's. <br /> right: Modern paperbacks by Haruki Murakami*</figcaption>
-</figure>
+| ![books](/images/two-book-sets.png) |
+|:--:| 
+| *left: Antique bindings from Belford & Clarke, circa 1880's. <br /> right: Modern paperbacks by Haruki Murakami* |
 
 For some cool book lists, check out [thegreatestbooks.org](https://thegreatestbooks.org). This site has compiled lists of the all-time greatest works of fiction and non-fiction, ranked via a weighted average of dozens of best-of lists from across the web.
 
 | ![physics books](/images/rare-books.jpeg) | 
 |:--:| 
-| <sub> *Vintage physics textbooks. The set in green jackets is the famous Landau and Lifshitz "Course of Theoretical Physics", a legendary series written by two Soviet scientists known for its remarkable logical clarity. Sometimes I think that if civilization were destroyed, these are the books I would preserve.* <sub> |
+| *Vintage physics textbooks. The set in green jackets is the famous Landau and Lifshitz "Course of Theoretical Physics", a legendary series written by two Soviet scientists known for its remarkable logical clarity. Sometimes I think that if civilization were destroyed, these are the books I would preserve.* |
 
 
 
