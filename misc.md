@@ -14,7 +14,7 @@ Some random things on the web you might enjoy:
 
 * [*The Great Simplification* podcast](https://www.youtube.com/@thegreatsimplification) - I highly recommend this podcast, which features in-depth interviews of researchers, activists, and experts on the human predicament in the age of the anthropocene
 * [Conway's Game of Life](https://playgameoflife.com/) - glider guns, are you kiddin' me!? Explore the original cellular automata, one of the best demonstrations of *emergence* ever created
-* [*A Mathematician's Lament*](Lockhart_2002_A_Mathematician's_Lament.pdf) - a brilliant critique of K-12 math education and how school teaches kids not to create, but to conform
+* [*A Mathematician's Lament*](docs/Lockhart_2002_A_Mathematician's_Lament.pdf) - a brilliant critique of K-12 math education and how school teaches kids not to create, but to conform
 * [Anagrams code](https://github.com/WSLockhart/Anagrams) - a program I wrote in python to play a perfect game of *Anagrams*. See the README for an explanation of the game and how to run the program 
 * [Our world in data](https://ourworldindata.org) - a project to make research and data on the world's biggest challenges – poverty, war, climate change, etc - accessible to the public
 * This [video](https://www.youtube.com/watch?v=PUwmA3Q0_OE&ab_channel=AmericanMuseumofNaturalHistory) from the American Museum of Natural History, showing the growth of human civilization throughout history 
