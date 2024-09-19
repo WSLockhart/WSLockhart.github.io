@@ -9,7 +9,7 @@ title: Home
 
 Welcome to my website! 
 
-I am a Research Fellow at the [Institute on the Environment (IonE)](https://environment.umn.edu/staff/will-lockhart/) working at the intersection of data science and sustainability. A physicist by training, I have expertise in modeling, data analysis and visualization, and thinking about complex systems in general. Lately my focus has been on the ecological [overshoot crisis](TheOvershootCrisis.pdf) and questions around how humanity can create a more resilient, sustainable, and equitable future. 
+I am a Research Fellow at the [Institute on the Environment (IonE)](https://environment.umn.edu/staff/will-lockhart/) working at the intersection of data science and sustainability. A physicist by training, I have expertise in modeling, data analysis and visualization, and thinking about complex systems in general. Lately my focus has been on the ecological [overshoot crisis](docs/TheOvershootCrisis.pdf) and questions around how humanity can create a more resilient, sustainable, and equitable future. 
 
 ![image](/images/SolarSystem.jpg)
 
