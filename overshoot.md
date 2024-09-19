@@ -5,7 +5,7 @@ title: Ecocide
 
 # Overshoot
 
-[TheOvershootCrisis.pdf](/TheOvershootCrisis.pdf)
+[TheOvershootCrisis.pdf](docs/TheOvershootCrisis.pdf)
 
 
 <!---
