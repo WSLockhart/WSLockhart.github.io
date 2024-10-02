@@ -10,7 +10,7 @@ title: Misc
 
 ![conway gif](/images/glidergun_cropped.gif)
 
-Some random things on the web you might enjoy:
+Some random nerdy things on the web you might enjoy:
 
 * [*The Great Simplification* podcast](https://www.youtube.com/@thegreatsimplification) - I highly recommend this podcast, which features in-depth interviews of researchers, activists, and experts on the human predicament in the age of the anthropocene
 * [Conway's Game of Life](https://playgameoflife.com/) - glider guns, are you kiddin' me!? Explore the original cellular automata, one of the best demonstrations of *emergence* ever created
