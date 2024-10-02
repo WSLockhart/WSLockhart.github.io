@@ -11,8 +11,8 @@ title: Film
 
 ![film image](/images/TSG_collage.png)
 
-From 2012-2017 I directed a feature-length documentary film on the game of Go, **[*The Surrounding Game*](https://www.surroundinggamemovie.com/)**. 
-The project was a community-supported labor of love, a crazy adventure, and my attempt to communicate all the emotions and philosophical questions the game inspires in me. 
+From 2012-2016 I directed a feature-length documentary film on the game of Go, **[*The Surrounding Game*](https://www.surroundinggamemovie.com/)**. 
+The project was a community-supported labor of love, an amazing adventure, and my attempt to communicate all the emotions and philosophical questions the game inspires in me. 
 
 >THE SURROUNDING GAME follows the lives of three young Go prodigies vying to become the first-ever American professional players. As the competition intensifies and intricate patterns spill out across the board, their thoughts turn to their uncertain futures, and lead them on a journey through the game’s ancient past to ask what it means to live a meaningful life. Through an intimate portrait of these young players and interviews with the greatest Go masters alive today, the film explores the search for meaning that Go represents to its players, for whom the game is a window into the nature of thought itself.
 
@@ -26,7 +26,7 @@ The project was a community-supported labor of love, a crazy adventure, and my a
 and on **[VHX](http://thesurroundinggame.vhx.tv/)** directly through our website [surroundinggamemovie.com](https://www.surroundinggamemovie.com/). 
 -->
 
-We were on Netflix from 2018-2020. The film is currently available through [Vimeo-on-demand](https://vimeo.com/ondemand/thesurroundinggame) or on our website at [surroundinggamemovie.com](https://www.surroundinggamemovie.com/), and includes 30 minutes of *bonus material and deleted scenes*. The film is 97 minutes, and has been translated into over a dozen languages! To inquire about getting a physical copy on DVD or Blu-ray, you can contact me. 
+The film debuted at festivals in 2017, and was on Netflix from 2018-2020. It is currently available through [Vimeo-on-demand](https://vimeo.com/ondemand/thesurroundinggame) or on our website at [surroundinggamemovie.com](https://www.surroundinggamemovie.com/). Purchasing a digital copy also includes 30 minutes of *bonus material and deleted scenes*. The film runs about 90 minutes, and has been translated into over a dozen languages. To inquire about getting a physical copy on DVD or Blu-ray, feel free to contact me. 
 
 #### Watch the trailer:
 
