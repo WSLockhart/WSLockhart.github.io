@@ -74,6 +74,7 @@ and only a kind of union of the two will preserve an independent reality."  - He
 * [The scale of the universe](https://www.youtube.com/watch?v=GoW8Tf7hTGA)
 * [The magnet and the copper pipe](https://www.youtube.com/watch?v=5BeFoz3Ypo4) - the best physics demo ever
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - a brilliant pedagogical Youtube channel of animated math videos
+* [Minute Physics](https://www.youtube.com/@MinutePhysics) - short animted physics videos
 * [James O'Donohhue](https://www.youtube.com/channel/UCSaCQr2ppyNUY_kjnWY1yVQ) - animations of the Solar System
 
 
