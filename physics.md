@@ -51,7 +51,7 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 
 | ![theory-space](/images/bronstein_cube.png) |
 |:--:| 
-| *The "theory space" of standard physics models, based on three fundamental constants (image stolen from John Baez). <br /> Classical physics is correct in the limit that G = h = 1/c = 0.* |
+| *The "theory space" of standard physics models, based on three fundamental constants (image stolen from John Baez). <br /> Classical mechanics is correct in the limit that G = h = 1/c = 0.* |
 
 ### Resources
 
