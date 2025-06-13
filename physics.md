@@ -51,7 +51,7 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 
 | ![theory-space](/images/bronstein_cube.png) |
 |:--:| 
-| *The "theory space" of physics model frameworks, based on three fundamental constants (image stolen from John Baez). Classical mechanics is correct in the limit that G = h = 1/c = 0. Incorporating all three remains an unsolved problem (quantum gravity).* |
+| *The "theory space" of physics model frameworks, based on 3 fundamental constants (image from John Baez). Classical mechanics is correct in the limit that G = h = 1/c = 0. Incorporating all three remains an unsolved problem (quantum gravity).* |
 
 ### Resources
 
@@ -66,7 +66,7 @@ I also did some work on *pulsars* - rapidly spinning neutron stars that emit a c
 * [Astrobites](https://astrobites.org/) - a blog on recent news and academic papers in astronomy 
 * Sean Carroll's blog, ["presposterous universe"](https://www.preposterousuniverse.com)
 * [PBS Spacetime](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) Youtube channel
-* [John Baez](http://math.ucr.edu/home/baez/)
+* [John Baez's page](http://math.ucr.edu/home/baez/)
 
 ---
 
