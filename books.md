@@ -33,17 +33,18 @@ I like to visit used bookstores and especially [library book sales](https://book
 </p>
 -->
 
-<!---
+
 | ![books](/images/two-book-sets.png) |
 |:--:| 
 | *left: Antique bindings from Belford & Clarke, circa 1880's. <br /> right: Modern paperbacks by Haruki Murakami* |
--->
+
 
 Check out [thegreatestbooks.org](https://thegreatestbooks.org) for some nice lists of the all-time greatest works of fiction and non-fiction, ranked via a weighted average of dozens of best-of lists from across the web.
 
+<!---
 | ![physics books](/images/rare-books.jpeg) | 
 |:--:| 
 | *Vintage physics textbooks. The set with green jackets is the legendary "Course of Theoretical Physics" by Landau & Lifshitz, two Soviet scientists, known for its remarkable logical clarity.* |
-
+-->
 
 
