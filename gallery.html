@@ -3,41 +3,81 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Responsive Image Gallery</title>
+  <title>Interactive Hover Image Gallery</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
   <div class="gallery-container">
-    <figure class="gallery-item">
-      <img src="/images/books/s-l1600-2.jpg" alt="steinbeck" loading="lazy">
-      <figcaption> John Steinbeck - The Grapes of Wrath - 1st Ed. 12th Printing 1941 </figcaption>
-    </figure>
+    <h1 class="gallery-title">Our Visual Portfolio</h1>
     
-    <figure class="gallery-item">
-      <img src="https://picsum.photos" alt="Calm ocean waves crashing on sandy beach" loading="lazy">
-      <figcaption>Ocean Waves</figcaption>
-    </figure>
-    
-    <figure class="gallery-item">
-      <img src="https://picsum.photos" alt="Lush green forest path with sunlight filtering through trees" loading="lazy">
-      <figcaption>Forest Path</figcaption>
-    </figure>
-    
-    <figure class="gallery-item">
-      <img src="https://picsum.photos" alt="Neon lights reflecting on city streets at night" loading="lazy">
-      <figcaption>City Nights</figcaption>
-    </figure>
+    <div class="image-gallery">
+      <!-- Gallery Item 1 -->
+      <div class="gallery-item">
+        <img src="images/books/s-l1600-2" alt="Scenic Mountains" class="gallery-image">
+        <div class="image-overlay">
+          <div class="overlay-text">
+            <h3>Majestic Peaks</h3>
+            <p>Explore the heights of nature</p>
+          </div>
+        </div>
+      </div>
 
-    <figure class="gallery-item">
-      <img src="https://picsum.photos" alt="Golden desert sand dunes under a clear sky" loading="lazy">
-      <figcaption>Desert Dunes</figcaption>
-    </figure>
+      <!-- Gallery Item 2 -->
+      <div class="gallery-item">
+        <img src="https://picsum.photos" alt="Calm Ocean" class="gallery-image">
+        <div class="image-overlay">
+          <div class="overlay-text">
+            <h3>Deep Blue</h3>
+            <p>Tranquil waves and coastal shores</p>
+          </div>
+        </div>
+      </div>
 
-    <figure class="gallery-item">
-      <img src="https://picsum.photos" alt="Close up of crystal clear morning dew on a leaf" loading="lazy">
-      <figcaption>Morning Dew</figcaption>
-    </figure>
+      <!-- Gallery Item 3 -->
+      <div class="gallery-item">
+        <img src="https://picsum.photos" alt="Urban City" class="gallery-image">
+        <div class="image-overlay">
+          <div class="overlay-text">
+            <h3>City Lights</h3>
+            <p>The rhythm of modern architecture</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Gallery Item 4 -->
+      <div class="gallery-item">
+        <img src="https://picsum.photos" alt="Dense Forest" class="gallery-image">
+        <div class="image-overlay">
+          <div class="overlay-text">
+            <h3>Misty Woods</h3>
+            <p>Get lost in a sea of green</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Gallery Item 5 -->
+      <div class="gallery-item">
+        <img src="https://picsum.photos" alt="Golden Desert" class="gallery-image">
+        <div class="image-overlay">
+          <div class="overlay-text">
+            <h3>Desert Dunes</h3>
+            <p>Endless sun and shifting sands</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Gallery Item 6 -->
+      <div class="gallery-item">
+        <img src="https://picsum.photos" alt="Starry Sky" class="gallery-image">
+        <div class="image-overlay">
+          <div class="overlay-text">
+            <h3>Cosmic Night</h3>
+            <p>Stargazing into the vast universe</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 
 </body>
