@@ -8,6 +8,38 @@ body {
     font-family: Arial, sans-serif;
     background: #f5f5f5;
     padding: 40px 20px;
+
+
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+        const images = document.querySelectorAll('.gallery-item img');
+    
+        images.forEach(img => {
+    
+            function setOrientation() {
+                const container = img.closest('.gallery-item');
+    
+                if (img.naturalHeight > img.naturalWidth) {
+                    container.classList.add('portrait');
+                    container.classList.remove('landscape');
+                } else {
+                    container.classList.add('landscape');
+                    container.classList.remove('portrait');
+                }
+            }
+    
+            if (img.complete) {
+                setOrientation();
+            } else {
+                img.addEventListener('load', setOrientation);
+            }
+    
+        });
+    
+    });
+    </script>
+    
 }
 
 .gallery-container {
