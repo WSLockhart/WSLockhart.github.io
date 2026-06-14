@@ -1,70 +1,107 @@
-/* Core Reset */
-*, *::before, *::after {
-  box-sizing: border-box;
+/* Reset and Base Styles */
+* {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  font-family: system-ui, -apple-system, sans-serif;
-  background-color: #f4f4f9;
-  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #0f172a;
+  color: #f8fafc;
+  padding: 40px 20px;
+  min-height: 100vh;
 }
 
-/* Responsive Grid Configuration */
+/* Container Structure */
 .gallery-container {
-  display: grid;
-  /* Automatically columns fill space. Minimum 280px wide each, expanding equally to fit available row space */
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
   max-width: 1200px;
   margin: 0 auto;
 }
 
-/* Individual Card Styling */
+.gallery-title {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 2.5rem;
+  letter-spacing: 1px;
+}
+
+/* Responsive Grid Layout */
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+}
+
+/* Card Wrappers */
 .gallery-item {
   position: relative;
-  background-color: #fff;
-  border-radius: 8px;
+  border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  aspect-ratio: 1 / 1;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
 }
 
-/* Image Scaling Rules */
-.gallery-item img {
-  display: block;
+/* Image Modifications & Zoom Out on Hover */
+.gallery-image {
   width: 100%;
-  height: 250px; /* Forces uniform height across row items */
-  object-fit: cover; /* Prevents squishing by cropping to fit nicely */
-  transition: transform 0.5s ease;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
-/* Smooth Interactive Zoom Hover Effects */
-.gallery-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
-}
-
-.gallery-item:hover img {
-  transform: scale(1.05);
-}
-
-/* Caption Overlay Styling */
-.gallery-item figcaption {
+/* Overlay Mask styling */
+.image-overlay {
   position: absolute;
-  bottom: 0;
+  top: 0;
   left: 0;
   width: 100%;
-  padding: 1rem;
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75));
-  color: #fff;
-  font-size: 1.1rem;
-  font-weight: 500;
+  height: 100%;
+  background: linear-gradient(to top, rgba(15, 23, 42, 0.95) 0%, rgba(15, 23, 42, 0.4) 60%, transparent 100%);
+  display: flex;
+  align-items: flex-end;
+  padding: 24px;
   opacity: 0;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.4s ease;
 }
 
-.gallery-item:hover figcaption {
+/* Slide up behavior for inside text */
+.overlay-text {
+  transform: translateY(20px);
+  transition: transform 0.5s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.overlay-text h3 {
+  font-size: 1.4rem;
+  margin-bottom: 6px;
+  color: #fff;
+}
+
+.overlay-text p {
+  font-size: 0.95rem;
+  color: #cbd5e1;
+}
+
+/* Interactive Hover Trigger Animations */
+.gallery-item:hover .gallery-image {
+  transform: scale(1.1);
+}
+
+.gallery-item:hover .image-overlay {
   opacity: 1;
+}
+
+.gallery-item:hover .overlay-text {
+  transform: translateY(0);
+}
+
+/* Touchscreen Fallback Options (Ensures text visibility on mobile tap) */
+@media (hover: none) {
+  .image-overlay {
+    opacity: 1;
+  }
+  .overlay-text {
+    transform: translateY(0);
+  }
 }
