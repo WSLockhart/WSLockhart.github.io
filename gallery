@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Image Gallery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="gallery-container">
+    <figure class="gallery-item">
+      <img src="https://picsum.photos" alt="Beautiful mountain landscape at sunrise" loading="lazy">
+      <figcaption>Mountain Sunrise</figcaption>
+    </figure>
+    
+    <figure class="gallery-item">
+      <img src="https://picsum.photos" alt="Calm ocean waves crashing on sandy beach" loading="lazy">
+      <figcaption>Ocean Waves</figcaption>
+    </figure>
+    
+    <figure class="gallery-item">
+      <img src="https://picsum.photos" alt="Lush green forest path with sunlight filtering through trees" loading="lazy">
+      <figcaption>Forest Path</figcaption>
+    </figure>
+    
+    <figure class="gallery-item">
+      <img src="https://picsum.photos" alt="Neon lights reflecting on city streets at night" loading="lazy">
+      <figcaption>City Nights</figcaption>
+    </figure>
+
+    <figure class="gallery-item">
+      <img src="https://picsum.photos" alt="Golden desert sand dunes under a clear sky" loading="lazy">
+      <figcaption>Desert Dunes</figcaption>
+    </figure>
+
+    <figure class="gallery-item">
+      <img src="https://picsum.photos" alt="Close up of crystal clear morning dew on a leaf" loading="lazy">
+      <figcaption>Morning Dew</figcaption>
+    </figure>
+  </div>
+
+</body>
+</html>
