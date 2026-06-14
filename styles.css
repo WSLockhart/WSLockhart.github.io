@@ -44,39 +44,17 @@ h1 {
 .gallery {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: 180px;
     gap: 15px;
+    max-width: 1200px;
+    margin: 0 auto;
 }
-
-/* LANDSCAPE */
-.gallery-item.landscape {
-    grid-row: span 1;
-}
-
-/* PORTRAIT */
-.gallery-item.portrait {
-    grid-row: span 2;
-}
-
-/* .gallery-item.landscape {
-    aspect-ratio: 4 / 3;
-}
-
-.gallery-item.portrait {
-    aspect-ratio: 3 / 4;
-} */
-
-/* ITEM */
 
 .gallery-item {
+    aspect-ratio: 3/4; /* portrait shape */
     position: relative;
     overflow: hidden;
     border-radius: 12px;
-    cursor: pointer;
-    background: #ddd;
 }
-
-/* IMAGE */
 
 .gallery-item img {
     width: 100%;
@@ -89,7 +67,7 @@ h1 {
 /* HOVER ZOOM */
 
 .gallery-item:hover img {
-    transform: scale(1.08);
+    transform: scale(1.05);
 }
 
 /* CAPTION OVERLAY */
