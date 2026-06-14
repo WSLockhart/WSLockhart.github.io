@@ -1,0 +1,70 @@
+/* Core Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #f4f4f9;
+  padding: 2rem;
+}
+
+/* Responsive Grid Configuration */
+.gallery-container {
+  display: grid;
+  /* Automatically columns fill space. Minimum 280px wide each, expanding equally to fit available row space */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Individual Card Styling */
+.gallery-item {
+  position: relative;
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Image Scaling Rules */
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: 250px; /* Forces uniform height across row items */
+  object-fit: cover; /* Prevents squishing by cropping to fit nicely */
+  transition: transform 0.5s ease;
+}
+
+/* Smooth Interactive Zoom Hover Effects */
+.gallery-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.gallery-item:hover img {
+  transform: scale(1.05);
+}
+
+/* Caption Overlay Styling */
+.gallery-item figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75));
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 500;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.gallery-item:hover figcaption {
+  opacity: 1;
+}
