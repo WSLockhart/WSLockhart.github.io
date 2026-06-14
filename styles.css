@@ -105,6 +105,30 @@ h1 {
     line-height: 1.4;
 }
 
+
+.year-divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #333;
+
+    margin: 60px 0 30px;
+}
+
+.year-divider::before,
+.year-divider::after {
+    content: "";
+    height: 1px;
+    background: #ddd;
+    flex: 1;
+}
+
+
+
 /* TABLET */
 
 @media (max-width: 900px) {
