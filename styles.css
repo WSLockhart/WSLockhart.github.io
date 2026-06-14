@@ -11,26 +11,16 @@ body {
 
 
     <script>
-    document.addEventListener('DOMContentLoaded', () => {
+    window.addEventListener('load', () => {
     
         document.querySelectorAll('.gallery-item img').forEach(img => {
     
-            function classifyOrientation() {
-                const item = img.closest('.gallery-item');
+            const item = img.closest('.gallery-item');
     
-                item.classList.remove('portrait', 'landscape');
-    
-                if (img.naturalHeight > img.naturalWidth) {
-                    item.classList.add('portrait');
-                } else {
-                    item.classList.add('landscape');
-                }
-            }
-    
-            if (img.complete) {
-                classifyOrientation();
+            if (img.naturalHeight > img.naturalWidth) {
+                item.classList.add('portrait');
             } else {
-                img.addEventListener('load', classifyOrientation);
+                item.classList.add('landscape');
             }
     
         });
