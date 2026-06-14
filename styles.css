@@ -25,16 +25,27 @@ h1 {
 .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 180px;
     gap: 15px;
 }
 
+/* LANDSCAPE */
 .gallery-item.landscape {
+    grid-row: span 1;
+}
+
+/* PORTRAIT */
+.gallery-item.portrait {
+    grid-row: span 2;
+}
+
+/* .gallery-item.landscape {
     aspect-ratio: 4 / 3;
 }
 
 .gallery-item.portrait {
     aspect-ratio: 3 / 4;
-}
+} */
 
 /* ITEM */
 
