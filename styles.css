@@ -12,27 +12,25 @@ body {
 
     <script>
     document.addEventListener('DOMContentLoaded', () => {
-
-        const images = document.querySelectorAll('.gallery-item img');
     
-        images.forEach(img => {
+        document.querySelectorAll('.gallery-item img').forEach(img => {
     
-            function setOrientation() {
-                const container = img.closest('.gallery-item');
+            function classifyOrientation() {
+                const item = img.closest('.gallery-item');
+    
+                item.classList.remove('portrait', 'landscape');
     
                 if (img.naturalHeight > img.naturalWidth) {
-                    container.classList.add('portrait');
-                    container.classList.remove('landscape');
+                    item.classList.add('portrait');
                 } else {
-                    container.classList.add('landscape');
-                    container.classList.remove('portrait');
+                    item.classList.add('landscape');
                 }
             }
     
             if (img.complete) {
-                setOrientation();
+                classifyOrientation();
             } else {
-                img.addEventListener('load', setOrientation);
+                img.addEventListener('load', classifyOrientation);
             }
     
         });
