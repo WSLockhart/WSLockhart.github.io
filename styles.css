@@ -153,6 +153,13 @@ body.dark h1 {
     opacity: 1;
 }
 
+body.dark .gallery-footer a {
+    color: lightyellow;
+}
+
+body.light .gallery-footer a {
+    color: #222;
+}
 
 /* RESPONSIVE */
 @media (max-width: 900px) {
