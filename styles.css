@@ -137,7 +137,7 @@ body.dark h1 {
 
 .gallery-footer {
     text-align: center;
-    padding: 60px 20px 40px;
+    padding: 40px 20px 40px;
 }
 
 .gallery-footer a {
@@ -156,7 +156,6 @@ body.dark h1 {
 body.dark .gallery-footer a {
     color: lightyellow;
 }
-
 body.light .gallery-footer a {
     color: #222;
 }
