@@ -33,6 +33,12 @@ h1 {
     font-weight: 400;
     letter-spacing: 0.03em;
 }
+body.light h1 {
+    color: #222;
+}
+body.dark h1 {
+    color: yellow;
+}
 
 /* YEAR SECTION */
 .year-section {
