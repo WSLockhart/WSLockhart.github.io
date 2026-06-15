@@ -28,7 +28,8 @@ body.dark {
 
 /* HEADER */
 h1 {
-    font-family: Baskerville, "Baskerville Old Face", serif;
+    /* font-family: Baskerville, "Baskerville Old Face", serif; */
+    font-family: Georgia, serif;
     font-size: 3.0rem;
     font-weight: 400;
     letter-spacing: 0.03em;
