@@ -38,7 +38,7 @@ body.light h1 {
     color: #222;
 }
 body.dark h1 {
-    color: lemonyellow;
+    color: #FFF44F;
 }
 
 /* YEAR SECTION */
@@ -155,7 +155,7 @@ body.dark h1 {
 }
 
 body.dark .gallery-footer a {
-    color: lemonyellow;
+    color: #FFF44F;
 }
 body.light .gallery-footer a {
     color: #222;
